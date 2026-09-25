@@ -1,5 +1,5 @@
 {
-  "notes": "La Catena Áurea se publica con permiso escrito del titular de hjg.com.ar.",
+  "notes": "La Biblia Straubinger (con notas e introducciones) como Biblia por defecto; el Salmo 113 completo en la Torres Amat; Información nombra las dos Biblias.",
   "packs": {
     "autores": {
       "format": 1,
@@ -8,12 +8,19 @@
       "size": 21925,
       "version": 1
     },
+    "biblia": {
+      "format": 1,
+      "path": "../packs/biblia-fcf774368be41321.json",
+      "sha256": "fcf774368be41321b36046b59799dbdb225f5d70d2ad451915b5a404849ab38c",
+      "size": 5337991,
+      "version": 2
+    },
     "guia": {
       "format": 1,
-      "path": "../packs/guia-884ae2efe21e0d21.json",
-      "sha256": "884ae2efe21e0d21f157b5d283c49db48fabf65e88bdcb7c4881f6b25a941ee2",
-      "size": 9031,
-      "version": 1
+      "path": "../packs/guia-f7ce13e9b3ef63b2.json",
+      "sha256": "f7ce13e9b3ef63b2a5bb7729adca9b1eada077e04a8615595d468b824aaf4b76",
+      "size": 9058,
+      "version": 2
     },
     "hoy": {
       "format": 1,
@@ -24,14 +31,21 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-0171a5779d22e5b1.json",
-      "sha256": "0171a5779d22e5b11f38d9a73dd1f40661eddbaf54f26308a0031a574e421c12",
-      "size": 3654,
-      "version": 2
+      "path": "../packs/info-8e74016ceafa81c1.json",
+      "sha256": "8e74016ceafa81c1c806aa8cf6798efa8c0f3e0f3e67176b5f27e436a27cd29b",
+      "size": 4189,
+      "version": 3
+    },
+    "straubinger": {
+      "format": 1,
+      "path": "../packs/straubinger-f2eed8ec9f078bc5.json",
+      "sha256": "f2eed8ec9f078bc5a7e0522c9565bdcd8dc1421797dca4a9f71a683210e75f85",
+      "size": 10150979,
+      "version": 1
     }
   },
   "priority": "normal",
-  "published": "2026-09-25T17:17:33Z",
-  "release": 2,
+  "published": "2026-09-25T23:55:43Z",
+  "release": 3,
   "schema": 1
 }

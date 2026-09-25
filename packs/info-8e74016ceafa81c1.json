@@ -12,7 +12,7 @@
     {
       "symbol": "book",
       "title": "La Biblia completa",
-      "text": "Los 73 libros en la traducción de Félix Torres Amat, hecha desde la Vulgata latina."
+      "text": "Los 73 libros en dos traducciones, a elegir en Apariencia del texto: la de Mons. Juan Straubinger, hecha desde los textos originales, con sus notas y las introducciones a cada libro, y la de Félix Torres Amat, desde la Vulgata latina."
     },
     {
       "symbol": "link",
@@ -41,6 +41,13 @@
     }
   ],
   "texts": [
+    {
+      "pack": "straubinger",
+      "title": "Biblia Straubinger",
+      "text": "La Santa Biblia traducida de los textos originales y comentada por Mons. Juan Straubinger (Biblia Platense). El texto, las notas y las introducciones se leyeron del escaneo de la edición impresa y se verificaron contra la imagen.",
+      "license": "Dominio público",
+      "status": null
+    },
     {
       "pack": "biblia",
       "title": "Biblia Torres Amat",
