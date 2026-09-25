@@ -1,0 +1,37 @@
+{
+  "notes": "Correo de contacto; la Guía, el catálogo de autores y los versículos del día pasan a ser actualizables.",
+  "packs": {
+    "autores": {
+      "format": 1,
+      "path": "../packs/autores-55d014438a246de0.json",
+      "sha256": "55d014438a246de0afb5ef7224fbcd635becef05aa0819632396734ad83f1498",
+      "size": 21925,
+      "version": 1
+    },
+    "guia": {
+      "format": 1,
+      "path": "../packs/guia-884ae2efe21e0d21.json",
+      "sha256": "884ae2efe21e0d21f157b5d283c49db48fabf65e88bdcb7c4881f6b25a941ee2",
+      "size": 9031,
+      "version": 1
+    },
+    "hoy": {
+      "format": 1,
+      "path": "../packs/hoy-27978112dada41a8.json",
+      "sha256": "27978112dada41a825095004d951e3313ce3cf319e5a5ec5d017e92a7cb2da84",
+      "size": 713,
+      "version": 1
+    },
+    "info": {
+      "format": 1,
+      "path": "../packs/info-6cd11544fbe4c37a.json",
+      "sha256": "6cd11544fbe4c37a0c69c307a21e47349ad4388e7b997ea7c768c1f04398525b",
+      "size": 3611,
+      "version": 1
+    }
+  },
+  "priority": "normal",
+  "published": "2026-09-25T16:37:44Z",
+  "release": 1,
+  "schema": 1
+}

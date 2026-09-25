@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "intro": {
+    "title": "Áurea",
+    "tagline": "La Sagrada Escritura leída con los Padres de la Iglesia.",
+    "paragraphs": [
+      "Áurea une el texto de la Biblia con lo que los Padres y Doctores de la Iglesia escribieron sobre cada versículo. Toma su nombre de la Catena Áurea, la «cadena de oro» en la que Santo Tomás de Aquino enlazó, versículo a versículo, los comentarios de los Padres a los cuatro Evangelios.",
+      "Es gratuita, no tiene anuncios y no recoge datos de quien la usa."
+    ]
+  },
+  "features": [
+    {
+      "symbol": "book",
+      "title": "La Biblia completa",
+      "text": "Los 73 libros en la traducción de Félix Torres Amat, hecha desde la Vulgata latina."
+    },
+    {
+      "symbol": "link",
+      "title": "Catena Áurea",
+      "text": "Los cuatro Evangelios con la cadena de Padres que reunió Santo Tomás, con sus prólogos y notas."
+    },
+    {
+      "symbol": "building.columns",
+      "title": "Padres del Antiguo Testamento",
+      "text": "Textos de los Padres sobre cada versículo del Antiguo Testamento, traducidos desde el latín y el griego. Se amplía libro a libro."
+    },
+    {
+      "symbol": "person.2",
+      "title": "Padres y Doctores",
+      "text": "Una ficha para cada autor y una guía que explica quiénes son los Padres, los concilios y los escritores eclesiásticos."
+    },
+    {
+      "symbol": "sun.max",
+      "title": "Hoy",
+      "text": "El día litúrgico, un versículo y una voz de los Padres para cada día."
+    },
+    {
+      "symbol": "bookmark",
+      "title": "Guardados",
+      "text": "Versículos y comentarios guardados con notas personales, sincronizados con tu iCloud."
+    }
+  ],
+  "texts": [
+    {
+      "pack": "biblia",
+      "title": "Biblia Torres Amat",
+      "text": "La Sagrada Biblia traducida de la Vulgata latina por Félix Torres Amat (1823–1825). El texto se cotejó con los escaneos de la edición de 1882.",
+      "license": "Dominio público",
+      "status": "Texto en revisión"
+    },
+    {
+      "pack": "catena",
+      "title": "Catena Áurea",
+      "text": "Santo Tomás de Aquino, Catena Áurea sobre los cuatro Evangelios, en traducción española desde el latín tomada de hjg.com.ar/catena.",
+      "license": null,
+      "status": "Pendiente de revisión"
+    },
+    {
+      "pack": "padres",
+      "title": "Padres al Antiguo Testamento",
+      "text": "Obras de los Padres en su lengua original (Patrología de Migne, Patristic Text Archive, Corpus Corporum) y textos ligados a cada versículo por la colección de Schaff (CCEL) y HistoricalChristianFaith. La traducción española es de Claude, una inteligencia artificial, desde el latín o el griego.",
+      "license": "Dominio público o licencia abierta (CC BY-SA 4.0 en el Patristic Text Archive y First1KGreek)",
+      "status": "Pendiente de revisión por un sacerdote"
+    }
+  ],
+  "contact": {
+    "text": "¿Encontraste un error en un texto o tienes una sugerencia? Escríbenos: cada corrección llega a todos por la próxima actualización de contenido.",
+    "email": "losareopagos@gmail.com",
+    "subject": "Áurea",
+    "web": null,
+    "webTitle": null
+  },
+  "privacy": "Áurea no tiene cuentas ni publicidad y no envía datos a terceros. Tus guardados y notas se guardan en tu dispositivo y en tu iCloud privado. Para actualizar los textos, el app consulta periódicamente un archivo público de contenido; esa consulta no lleva datos tuyos.",
+  "credits": [
+    "Diseño y desarrollo: Carlos Carmona",
+    "Traducciones de los Padres: Claude (Anthropic), pendientes de revisión"
+  ]
+}

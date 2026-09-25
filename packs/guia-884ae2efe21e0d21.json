@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "articles": [
+    {
+      "id": "councilsAndEast",
+      "title": "Los concilios y las tradiciones de Oriente",
+      "lead": "Durante mil años hubo una sola Iglesia, con tradiciones latinas, griegas y siríacas. Tres rupturas dieron origen a las Iglesias que hoy conocemos.",
+      "symbol": "building.columns",
+      "blocks": [
+        {
+          "type": "timeline",
+          "events": [
+            {
+              "title": "Éfeso · Iglesia del Oriente",
+              "year": "431",
+              "text": "El concilio proclama a María Madre de Dios contra Nestorio. Las comunidades cristianas del Imperio persa no lo aceptan; se las llamó «nestorianas»."
+            },
+            {
+              "title": "Calcedonia · Ortodoxos orientales",
+              "year": "451",
+              "text": "Cristo es una sola persona en dos naturalezas, divina y humana. No aceptan este concilio las Iglesias copta, siríaca, armenia y etíope, que por eso se llaman «no calcedonenses»."
+            },
+            {
+              "title": "Separación de Oriente",
+              "year": "1054",
+              "text": "Se separan la Iglesia católica y la ortodoxa. Los Padres anteriores son de ambas."
+            }
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Qué autores entran en la app"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Todos los Padres anteriores a la separación de 1054, latinos, griegos y siríacos.",
+            "Los Doctores de la Iglesia de cualquier época.",
+            "Autores de las Iglesias orientales que la Iglesia católica reconoce y venera, como San Gregorio de Narek.",
+            "No entran los que escribieron contra los concilios, ni los autores ortodoxos posteriores a 1054, salvo los que Santo Tomás cita en la Catena Áurea."
+          ]
+        },
+        {
+          "type": "callout",
+          "title": "HOY",
+          "text": "Desde 1973 los papas han firmado declaraciones comunes sobre la fe en Cristo con las Iglesias copta, siríaca, armenia y asiria del Oriente: la fe es la misma, y la diferencia fue en buena parte de palabras. Muchas de estas tradiciones tienen además Iglesias orientales en plena comunión con Roma. San Gregorio de Narek, armenio, es Doctor de la Iglesia desde 2015."
+        },
+        {
+          "type": "fathers",
+          "ids": [
+            "ephrem",
+            "aphrahat",
+            "theodoret"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "origenAndTertullian",
+      "title": "¿Por qué leemos a Orígenes y a Tertuliano?",
+      "lead": "Algunos de los autores antiguos más citados no son santos, y alguna idea suya fue rechazada. La Iglesia los lee con discernimiento.",
+      "symbol": "text.book.closed",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Orígenes fue el mayor intérprete de la Escritura de su tiempo, y Tertuliano el primer gran teólogo latino. Ninguno de los dos es santo: algunas ideas de Orígenes, sobre todo como las desarrollaron sus seguidores, se condenaron en el siglo VI, y Tertuliano acabó separándose de la Iglesia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aun así, la Iglesia nunca dejó de leerlos. Santo Tomás cita a Orígenes en la Catena Áurea, la Liturgia de las Horas lee homilías de Orígenes y el tratado de Tertuliano sobre la oración, y Benedicto XVI les dedicó catequesis a los dos. Lo que enseñaron bien sigue siendo un tesoro."
+        },
+        {
+          "type": "heading",
+          "text": "Cómo lo muestra la app"
+        },
+        {
+          "type": "paragraph",
+          "text": "Junto al nombre de estos autores aparece una etiqueta, como «Escritor eclesiástico». Al tocarla se explica por qué no es santo o qué punto no aceptó la Iglesia, y la ficha del autor lo cuenta con más detalle."
+        },
+        {
+          "type": "heading",
+          "text": "A quiénes no incluimos"
+        },
+        {
+          "type": "paragraph",
+          "text": "No se incluyen autores cuya persona y doctrina condenó la Iglesia, como Teodoro de Mopsuestia, ni a Diodoro de Tarso, al que se tuvo por precursor de Nestorio. Cuando Migne intercala fragmentos suyos entre los de otro Padre, la app los deja fuera."
+        },
+        {
+          "type": "fathers",
+          "ids": [
+            "origen",
+            "tertullian",
+            "clementAlexandria",
+            "eusebius",
+            "didymus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "whoAreTheFathers",
+      "title": "¿Quiénes son los Padres de la Iglesia?",
+      "lead": "Los escritores de los primeros siglos a los que la Iglesia reconoce como testigos seguros de la fe que recibió de los Apóstoles.",
+      "symbol": "person.2",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Se llama Padres de la Iglesia a los obispos, sacerdotes, monjes y laicos de los primeros siglos cuya enseñanza la Iglesia recibe como testimonio fiel de la Tradición. Tradicionalmente se les reconoce por cuatro notas:"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Antigüedad: vivieron en los primeros siglos. La época de los Padres suele cerrarse con San Isidoro de Sevilla (†636) en Occidente y con San Juan Damasceno (†749) en Oriente.",
+            "Doctrina ortodoxa: su enseñanza está en comunión con la fe de la Iglesia.",
+            "Santidad de vida: la Iglesia los venera como santos.",
+            "Aprobación de la Iglesia: los concilios, los papas y la liturgia los citan como maestros."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Doctores de la Iglesia"
+        },
+        {
+          "type": "paragraph",
+          "text": "Es un título que la Iglesia concede a algunos santos, Padres o no, por la eminencia de su doctrina. Los primeros fueron los cuatro grandes Padres latinos, San Ambrosio, San Jerónimo, San Agustín y San Gregorio Magno, declarados en 1298. En 1568 se añadieron cuatro griegos: San Atanasio, San Basilio, San Gregorio Nacianceno y San Juan Crisóstomo. Hoy son casi cuarenta, entre ellos Santo Tomás de Aquino, San Buenaventura, Santa Teresa de Jesús y Santa Teresa del Niño Jesús."
+        },
+        {
+          "type": "heading",
+          "text": "Escritores eclesiásticos"
+        },
+        {
+          "type": "paragraph",
+          "text": "A los autores antiguos a los que falta alguna de esas notas se les llama escritores eclesiásticos. Unos no son santos, otros erraron en algún punto, otros vivieron después de la época de los Padres. La Iglesia los sigue leyendo en lo que enseñaron bien, y la app los marca con una etiqueta que explica su caso."
+        },
+        {
+          "type": "fathers",
+          "ids": [
+            "augustine",
+            "chrysostom",
+            "origen",
+            "tertullian"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "title": "De dónde salen estos textos",
+      "lead": "Todos los textos son de dominio público o de licencia abierta, y la traducción española se hizo desde la lengua original siempre que fue posible.",
+      "symbol": "books.vertical",
+      "blocks": [
+        {
+          "type": "heading",
+          "text": "Evangelios"
+        },
+        {
+          "type": "paragraph",
+          "text": "La Catena Áurea de Santo Tomás de Aquino, en traducción española desde el latín tomada de hjg.com.ar/catena."
+        },
+        {
+          "type": "heading",
+          "text": "Antiguo Testamento"
+        },
+        {
+          "type": "bullets",
+          "items": [
+            "Obras completas de los Padres en su lengua original, de la Patrología de Migne (siglo XIX, dominio público): San Agustín, San Ambrosio, San Isidoro, Orígenes, San Juan Crisóstomo, Teodoreto y Procopio.",
+            "San Cirilo de Alejandría, del Patristic Text Archive de Berlín (licencia CC BY-SA 4.0).",
+            "Textos ya ligados a cada versículo por la colección inglesa de Schaff (CCEL) y por HistoricalChristianFaith, que se traducen desde el latín cuando existe.",
+            "Santo Tomás, de la Suma Teológica, y San Buenaventura."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Cómo se tradujo"
+        },
+        {
+          "type": "paragraph",
+          "text": "La traducción española es de Claude, una inteligencia artificial, desde el latín o el griego. El griego de Migne que se leyó por máquina se cotejó con la página impresa, línea por línea donde había dudas. Todos los textos están pendientes de la revisión de un sacerdote."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cuando el propio texto impreso trae una errata o una laguna marcada por el editor, se traduce según el sentido y se deja constancia en los datos de la app."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "format": 1,
+  "fathers": [
+    {
+      "id": "clementRome",
+      "name": "San Clemente Romano",
+      "initials": "CR",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† c. 99",
+      "century": 1,
+      "see": "Obispo de Roma"
+    },
+    {
+      "id": "ignatius",
+      "name": "San Ignacio de Antioquía",
+      "initials": "IA",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "c. 35–108",
+      "century": 2,
+      "see": "Obispo de Antioquía"
+    },
+    {
+      "id": "barnabas",
+      "name": "Carta de Bernabé",
+      "initials": "CB",
+      "tradition": "greek",
+      "status": "work",
+      "lifespan": "c. 130",
+      "century": 2,
+      "see": "Siglo II",
+      "profile": {
+        "about": "Carta cristiana de comienzos del siglo II, escrita probablemente en Alejandría. La tradición antigua la atribuyó a San Bernabé, el compañero de San Pablo, pero no es suya.",
+        "whyRead": "Es uno de los escritos cristianos más antiguos fuera del Nuevo Testamento y muestra cómo los primeros cristianos leían el Antiguo Testamento a la luz de Cristo.",
+        "badgeNote": "No la escribió San Bernabé: es una carta anónima de comienzos del siglo II, de las más antiguas que se conservan.",
+        "article": "whoAreTheFathers"
+      }
+    },
+    {
+      "id": "justin",
+      "name": "San Justino Mártir",
+      "initials": "Ju",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "c. 100–165",
+      "century": 2,
+      "see": "Filósofo y mártir en Roma"
+    },
+    {
+      "id": "melito",
+      "name": "San Melitón de Sardes",
+      "initials": "Ml",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† c. 180",
+      "century": 2,
+      "see": "Obispo de Sardes"
+    },
+    {
+      "id": "theophilusAntioch",
+      "name": "San Teófilo de Antioquía",
+      "initials": "Tf",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† c. 183",
+      "century": 2,
+      "see": "Obispo de Antioquía"
+    },
+    {
+      "id": "irenaeus",
+      "name": "San Ireneo de Lyon",
+      "initials": "I",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 130–202",
+      "century": 2,
+      "see": "Obispo de Lyon"
+    },
+    {
+      "id": "clementAlexandria",
+      "name": "Clemente de Alejandría",
+      "initials": "CA",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 150–215",
+      "century": 3,
+      "see": "Alejandría",
+      "profile": {
+        "about": "Maestro de la escuela cristiana de Alejandría y maestro de Orígenes. Quiso mostrar a los griegos cultos que la fe cristiana es la verdadera filosofía.",
+        "notAcceptedNote": "Nunca fue condenado, pero algunas expresiones suyas son imprecisas, y en 1748 Benedicto XIV lo retiró del Martirologio Romano porque no constaba un culto antiguo seguro.",
+        "whyRead": "Es un testigo muy antiguo de la fe y de la lectura cristiana de la Escritura. Benedicto XVI le dedicó una de sus catequesis sobre los Padres (2007).",
+        "badgeNote": "No se le venera como santo, pero nunca fue condenado. Es uno de los primeros grandes maestros cristianos de Alejandría.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "tertullian",
+      "name": "Tertuliano",
+      "initials": "Te",
+      "tradition": "latin",
+      "status": "writer",
+      "lifespan": "c. 160–220",
+      "century": 3,
+      "see": "Cartago",
+      "profile": {
+        "about": "Abogado de Cartago convertido al cristianismo, el primer gran escritor cristiano en latín. Acuñó palabras que la Iglesia sigue usando, como «Trinidad» y «persona».",
+        "notAccepted": [
+          "Hacia el año 207 se unió al montanismo, un movimiento rigorista que decía recibir nuevas revelaciones del Espíritu Santo y negaba el perdón de algunos pecados graves."
+        ],
+        "notAcceptedNote": "Por eso murió fuera de la comunión de la Iglesia y no es santo.",
+        "whyRead": "Sus obras, sobre todo las anteriores a su ruptura, son testigos preciosos de la fe de la Iglesia antigua. La Liturgia de las Horas lee su tratado Sobre la oración.",
+        "badgeNote": "No es santo: en sus últimos años se separó de la Iglesia y se unió al montanismo. La Iglesia sigue leyendo lo que escribió bien, también en la Liturgia de las Horas.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "hippolytus",
+      "name": "San Hipólito de Roma",
+      "initials": "Hi",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "c. 170–235",
+      "century": 3,
+      "see": "Presbítero de Roma, mártir"
+    },
+    {
+      "id": "origen",
+      "name": "Orígenes",
+      "initials": "O",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 185–254",
+      "century": 3,
+      "see": "Alejandría y Cesarea",
+      "profile": {
+        "about": "El mayor exegeta de la Iglesia antigua. Enseñó en Alejandría y en Cesarea de Palestina, comentó casi toda la Escritura y murió a consecuencia de las torturas que sufrió en la persecución de Decio.",
+        "notAccepted": [
+          "Que las almas existan antes que el cuerpo.",
+          "Que al final todos, incluso los demonios, vuelvan a Dios."
+        ],
+        "notAcceptedNote": "Estas tesis, sobre todo en la forma que les dieron sus seguidores, fueron condenadas en el siglo VI, en tiempos del Concilio de Constantinopla II (553). Por eso no se le venera como santo.",
+        "whyRead": "Santo Tomás lo cita en la Catena Áurea, la Liturgia de las Horas lee sus homilías y Benedicto XVI le dedicó dos catequesis (2007) como maestro de la lectura de la Escritura.",
+        "badgeNote": "No es santo. Algunas ideas suyas, o de sus seguidores, fueron condenadas en el siglo VI. La Iglesia sigue leyendo su interpretación de la Escritura, también en la Liturgia de las Horas.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "cyprian",
+      "name": "San Cipriano",
+      "initials": "Ci",
+      "tradition": "latin",
+      "status": "father",
+      "lifespan": "c. 200–258",
+      "century": 3,
+      "see": "Obispo de Cartago"
+    },
+    {
+      "id": "juliusAfricanus",
+      "name": "Julio Africano",
+      "initials": "JA",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 160–240",
+      "century": 3,
+      "see": "Emaús (Nicópolis)",
+      "profile": {
+        "about": "Laico cristiano, erudito y viajero, autor de la primera cronología cristiana de la historia del mundo, que Eusebio aprovechó y de la que se conservan fragmentos.",
+        "whyRead": "Es uno de los primeros cristianos que estudiaron la Escritura con rigor histórico; su carta sobre las genealogías de Cristo la citan los Padres posteriores.",
+        "badgeNote": "No es santo ni fue condenado: es un erudito laico del siglo III, pionero de la cronología cristiana.",
+        "article": "whoAreTheFathers"
+      }
+    },
+    {
+      "id": "dionysiusAlexandria",
+      "name": "San Dionisio de Alejandría",
+      "initials": "DA",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† 265",
+      "century": 3,
+      "see": "Obispo de Alejandría"
+    },
+    {
+      "id": "gregoryThaumaturgus",
+      "name": "San Gregorio Taumaturgo",
+      "initials": "GT",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "c. 213–270",
+      "century": 3,
+      "see": "Obispo de Neocesarea"
+    },
+    {
+      "id": "victorinus",
+      "name": "San Victorino de Petovio",
+      "initials": "Vi",
+      "tradition": "latin",
+      "status": "father",
+      "lifespan": "† 304",
+      "century": 3,
+      "see": "Obispo de Petovio, mártir"
+    },
+    {
+      "id": "methodius",
+      "name": "San Metodio de Olimpo",
+      "initials": "Me",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† c. 311",
+      "century": 3,
+      "see": "Obispo en Licia, mártir"
+    },
+    {
+      "id": "peterAlexandria",
+      "name": "San Pedro de Alejandría",
+      "initials": "PA",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "† 311",
+      "century": 4,
+      "see": "Obispo de Alejandría, mártir"
+    },
+    {
+      "id": "lactantius",
+      "name": "Lactancio",
+      "initials": "La",
+      "tradition": "latin",
+      "status": "writer",
+      "lifespan": "c. 250–325",
+      "century": 4,
+      "see": "Nicomedia y Tréveris",
+      "profile": {
+        "about": "Maestro de retórica, convertido al cristianismo y preceptor de un hijo de Constantino. Por la elegancia de su latín se le llamó «el Cicerón cristiano».",
+        "notAcceptedNote": "No fue condenado, pero nunca se le veneró como santo, y algunas ideas suyas son imprecisas, como las de otros autores anteriores a los grandes concilios.",
+        "whyRead": "Muestra cómo se presentaba la fe a los paganos cultos en tiempos de la última gran persecución.",
+        "badgeNote": "No es santo ni fue condenado: es un apologista latino de comienzos del siglo IV que la Iglesia lee con provecho.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "eusebius",
+      "name": "Eusebio de Cesarea",
+      "initials": "Eu",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 263–339",
+      "century": 4,
+      "see": "Obispo de Cesarea",
+      "profile": {
+        "about": "Obispo de Cesarea de Palestina y padre de la historia de la Iglesia: su Historia eclesiástica conserva noticias y textos de los primeros siglos que sin él se habrían perdido.",
+        "notAccepted": [
+          "En la crisis arriana simpatizó con Arrio y recibió con reservas la palabra «consustancial» del Concilio de Nicea (325), aunque firmó su credo."
+        ],
+        "whyRead": "Es la fuente principal para conocer la Iglesia antigua, y sus comentarios a la Escritura recogen la tradición anterior.",
+        "badgeNote": "No es santo: en la crisis arriana fue ambiguo. Es el gran historiador de la Iglesia antigua.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "aphrahat",
+      "name": "Afraates",
+      "initials": "Af",
+      "tradition": "syriac",
+      "status": "father",
+      "lifespan": "c. 270–345",
+      "century": 4,
+      "see": "El sabio persa",
+      "profile": {
+        "about": "Monje y quizá obispo de la Iglesia en el Imperio persa, el primer gran escritor en lengua siríaca. Sus Demostraciones explican la fe con imágenes de la Biblia.",
+        "whyRead": "Es testigo de la fe de los cristianos de lengua siríaca, anterior a las separaciones del siglo V. Las Iglesias siríacas lo veneran como santo.",
+        "badgeNote": "Escribió en siríaco, la lengua de los cristianos de Mesopotamia y de Persia, antes de las separaciones del siglo V.",
+        "article": "councilsAndEast"
+      }
+    },
+    {
+      "id": "athanasius",
+      "name": "San Atanasio",
+      "initials": "At",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 296–373",
+      "century": 4,
+      "see": "Obispo de Alejandría"
+    },
+    {
+      "id": "ephrem",
+      "name": "San Efrén de Siria",
+      "initials": "E",
+      "tradition": "syriac",
+      "status": "doctor",
+      "lifespan": "c. 306–373",
+      "century": 4,
+      "see": "Nísibis y Edesa",
+      "profile": {
+        "about": "Diácono de Nísibis y de Edesa, el gran poeta de la Iglesia siríaca: enseñó la fe con himnos, por lo que se le llamó «la cítara del Espíritu Santo».",
+        "whyRead": "Benedicto XV lo declaró Doctor de la Iglesia en 1920. Es el mayor testigo de la tradición siríaca, que las Iglesias de Oriente, católicas y ortodoxas, comparten.",
+        "badgeNote": "Doctor de la Iglesia. Escribió en siríaco, la lengua de los cristianos de Mesopotamia.",
+        "article": "councilsAndEast"
+      }
+    },
+    {
+      "id": "hilary",
+      "name": "San Hilario de Poitiers",
+      "initials": "H",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 310–367",
+      "century": 4,
+      "see": "Obispo de Poitiers"
+    },
+    {
+      "id": "basil",
+      "name": "San Basilio Magno",
+      "initials": "B",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 330–379",
+      "century": 4,
+      "see": "Obispo de Cesarea"
+    },
+    {
+      "id": "cyrilJerusalem",
+      "name": "San Cirilo de Jerusalén",
+      "initials": "CJ",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 313–386",
+      "century": 4,
+      "see": "Obispo de Jerusalén"
+    },
+    {
+      "id": "gregoryNazianzen",
+      "name": "San Gregorio Nacianceno",
+      "initials": "GN",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 329–390",
+      "century": 4,
+      "see": "Constantinopla"
+    },
+    {
+      "id": "gregoryNyssa",
+      "name": "San Gregorio de Nisa",
+      "initials": "Ni",
+      "tradition": "greek",
+      "status": "father",
+      "lifespan": "c. 335–395",
+      "century": 4,
+      "see": "Obispo de Nisa"
+    },
+    {
+      "id": "ambrose",
+      "name": "San Ambrosio",
+      "initials": "Am",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 340–397",
+      "century": 4,
+      "see": "Obispo de Milán"
+    },
+    {
+      "id": "didymus",
+      "name": "Dídimo el Ciego",
+      "initials": "Di",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 313–398",
+      "century": 4,
+      "see": "Alejandría",
+      "profile": {
+        "about": "Ciego desde niño, enseñó en Alejandría en el siglo IV; San Jerónimo y Rufino fueron sus oyentes, y San Atanasio lo estimaba.",
+        "notAccepted": [
+          "Siguió algunas ideas de Orígenes, como la existencia de las almas antes del cuerpo."
+        ],
+        "notAcceptedNote": "Por eso fue condenado junto con Orígenes en el siglo VI, y muchas de sus obras se perdieron.",
+        "whyRead": "Defendió con firmeza la divinidad del Espíritu Santo contra los arrianos; San Jerónimo tradujo al latín su tratado Sobre el Espíritu Santo.",
+        "badgeNote": "No es santo: siguió algunas ideas de Orígenes que se condenaron en el siglo VI. Fue un gran defensor de la divinidad del Espíritu Santo.",
+        "article": "origenAndTertullian"
+      }
+    },
+    {
+      "id": "chrysostom",
+      "name": "San Juan Crisóstomo",
+      "initials": "JC",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 347–407",
+      "century": 4,
+      "see": "Obispo de Constantinopla"
+    },
+    {
+      "id": "jerome",
+      "name": "San Jerónimo",
+      "initials": "J",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 347–420",
+      "century": 4,
+      "see": "Belén"
+    },
+    {
+      "id": "augustine",
+      "name": "San Agustín",
+      "initials": "A",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "354–430",
+      "century": 5,
+      "see": "Obispo de Hipona"
+    },
+    {
+      "id": "cassian",
+      "name": "San Juan Casiano",
+      "initials": "JCa",
+      "tradition": "latin",
+      "status": "father",
+      "lifespan": "c. 360–435",
+      "century": 5,
+      "see": "Monje en Marsella"
+    },
+    {
+      "id": "cyrilAlexandria",
+      "name": "San Cirilo de Alejandría",
+      "initials": "C",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 376–444",
+      "century": 5,
+      "see": "Obispo de Alejandría"
+    },
+    {
+      "id": "vincentLerins",
+      "name": "San Vicente de Lérins",
+      "initials": "VL",
+      "tradition": "latin",
+      "status": "father",
+      "lifespan": "† c. 445",
+      "century": 5,
+      "see": "Monje de Lérins"
+    },
+    {
+      "id": "chrysologus",
+      "name": "San Pedro Crisólogo",
+      "initials": "PC",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 380–450",
+      "century": 5,
+      "see": "Obispo de Rávena"
+    },
+    {
+      "id": "theodoret",
+      "name": "Teodoreto de Ciro",
+      "initials": "Td",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 393–458",
+      "century": 5,
+      "see": "Obispo de Ciro",
+      "profile": {
+        "about": "Obispo de Ciro, en Siria, uno de los grandes intérpretes de la escuela de Antioquía. Comentó el Antiguo Testamento en forma de preguntas y respuestas, con claridad y sobriedad.",
+        "notAccepted": [
+          "Escribió contra San Cirilo de Alejandría en la controversia con Nestorio. Esos escritos fueron condenados en el Concilio de Constantinopla II (553), entre los llamados «Tres Capítulos»."
+        ],
+        "notAcceptedNote": "Él mismo fue reconocido ortodoxo en el Concilio de Calcedonia (451), después de condenar a Nestorio, y nunca fue condenado en persona.",
+        "whyRead": "Sus comentarios a la Escritura no tocan aquella controversia y son de los mejores de la Antigüedad.",
+        "badgeNote": "No se le venera como santo en la Iglesia latina. Algunos escritos suyos contra San Cirilo fueron condenados, pero él murió en la comunión de la Iglesia.",
+        "article": "councilsAndEast"
+      }
+    },
+    {
+      "id": "leo",
+      "name": "San León Magno",
+      "initials": "L",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 400–461",
+      "century": 5,
+      "see": "Papa"
+    },
+    {
+      "id": "procopius",
+      "name": "Procopio de Gaza",
+      "initials": "Pr",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 465–528",
+      "century": 6,
+      "see": "Gaza",
+      "profile": {
+        "about": "Maestro de retórica cristiano de Gaza. Reunió en un comentario a los ocho primeros libros de la Biblia lo mejor de los Padres anteriores, resumido y casi siempre sin nombrarlos.",
+        "whyRead": "Por su comentario nos llegan interpretaciones de Padres griegos cuyas obras se perdieron.",
+        "badgeNote": "No es santo ni fue condenado: es un laico erudito que resumió a los Padres griegos anteriores.",
+        "article": "sources"
+      }
+    },
+    {
+      "id": "gregoryGreat",
+      "name": "San Gregorio Magno",
+      "initials": "G",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 540–604",
+      "century": 6,
+      "see": "Papa"
+    },
+    {
+      "id": "isidore",
+      "name": "San Isidoro de Sevilla",
+      "initials": "Is",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 560–636",
+      "century": 7,
+      "see": "Obispo de Sevilla"
+    },
+    {
+      "id": "bede",
+      "name": "San Beda el Venerable",
+      "initials": "Be",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "c. 673–735",
+      "century": 8,
+      "see": "Jarrow"
+    },
+    {
+      "id": "damascene",
+      "name": "San Juan Damasceno",
+      "initials": "JD",
+      "tradition": "greek",
+      "status": "doctor",
+      "lifespan": "c. 675–749",
+      "century": 8,
+      "see": "Damasco"
+    },
+    {
+      "id": "alcuin",
+      "name": "Alcuino de York",
+      "initials": "Al",
+      "tradition": "latin",
+      "status": "writer",
+      "lifespan": "c. 735–804",
+      "century": 8,
+      "see": "Tours"
+    },
+    {
+      "id": "rabanus",
+      "name": "Rabano Mauro",
+      "initials": "R",
+      "tradition": "latin",
+      "status": "writer",
+      "lifespan": "c. 780–856",
+      "century": 9,
+      "see": "Arzobispo de Maguncia",
+      "profile": {
+        "about": "Monje y abad de Fulda, y después arzobispo de Maguncia. Comentó casi toda la Biblia reuniendo textos de los Padres; en el Levítico sigue sobre todo al presbítero Hesiquio de Jerusalén (siglo V), cuyo comentario griego se perdió.",
+        "whyRead": "Por él nos llega en latín buena parte de la exégesis de Hesiquio y de otros Padres.",
+        "badgeNote": "Monje y obispo del siglo IX, posterior a la época de los Padres. Compuso sus comentarios con textos de ellos.",
+        "article": "sources"
+      }
+    },
+    {
+      "id": "remigius",
+      "name": "Remigio de Auxerre",
+      "initials": "Re",
+      "tradition": "latin",
+      "status": "writer",
+      "lifespan": "c. 841–908",
+      "century": 9,
+      "see": "Auxerre"
+    },
+    {
+      "id": "theophylact",
+      "name": "Teofilacto de Ocrida",
+      "initials": "T",
+      "tradition": "greek",
+      "status": "writer",
+      "lifespan": "c. 1055–1107",
+      "century": 11,
+      "see": "Arzobispo de Ocrida",
+      "profile": {
+        "about": "Arzobispo de Ocrida, en la actual Macedonia del Norte. Sus comentarios a los evangelios resumen sobre todo a San Juan Crisóstomo.",
+        "notAccepted": [
+          "Vivió después de la separación de 1054 y en algunas cuestiones siguió la postura de Constantinopla, aunque con espíritu moderado."
+        ],
+        "whyRead": "Santo Tomás lo cita en la Catena Áurea por la claridad con que transmite la interpretación de los Padres griegos.",
+        "badgeNote": "Obispo bizantino posterior a la separación de 1054. Santo Tomás lo cita en la Catena Áurea porque resume fielmente a San Juan Crisóstomo.",
+        "article": "councilsAndEast"
+      }
+    },
+    {
+      "id": "bonaventure",
+      "name": "San Buenaventura",
+      "initials": "Bu",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "1221–1274",
+      "century": 13,
+      "see": "Franciscano"
+    },
+    {
+      "id": "aquinas",
+      "name": "Santo Tomás de Aquino",
+      "initials": "TA",
+      "tradition": "latin",
+      "status": "doctor",
+      "lifespan": "1225–1274",
+      "century": 13,
+      "see": "Dominico"
+    }
+  ]
+}
