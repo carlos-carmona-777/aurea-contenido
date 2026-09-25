@@ -1,5 +1,5 @@
 {
-  "notes": "Correo de contacto; la Guía, el catálogo de autores y los versículos del día pasan a ser actualizables.",
+  "notes": "La Catena Áurea se publica con permiso escrito del titular de hjg.com.ar.",
   "packs": {
     "autores": {
       "format": 1,
@@ -24,14 +24,14 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-6cd11544fbe4c37a.json",
-      "sha256": "6cd11544fbe4c37a0c69c307a21e47349ad4388e7b997ea7c768c1f04398525b",
-      "size": 3611,
-      "version": 1
+      "path": "../packs/info-0171a5779d22e5b1.json",
+      "sha256": "0171a5779d22e5b11f38d9a73dd1f40661eddbaf54f26308a0031a574e421c12",
+      "size": 3654,
+      "version": 2
     }
   },
   "priority": "normal",
-  "published": "2026-09-25T16:37:44Z",
-  "release": 1,
+  "published": "2026-09-25T17:17:33Z",
+  "release": 2,
   "schema": 1
 }
