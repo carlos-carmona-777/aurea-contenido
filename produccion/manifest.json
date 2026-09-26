@@ -1,5 +1,5 @@
 {
-  "notes": "La Biblia Straubinger (con notas e introducciones) como Biblia por defecto; el Salmo 113 completo en la Torres Amat; Información nombra las dos Biblias.",
+  "notes": "Los comentarios de los Padres al Antiguo Testamento caen en su versículo en Gn 50, Éx 40 y Lv 15 (numeración de la Torres Amat).",
   "packs": {
     "autores": {
       "format": 1,
@@ -36,6 +36,13 @@
       "size": 4189,
       "version": 3
     },
+    "padres": {
+      "format": 1,
+      "path": "../packs/padres-c137c03e4f0a3ccc.json",
+      "sha256": "c137c03e4f0a3ccc750ab63f65b702cfed7cc4cc456337021dea6980f1aa8d97",
+      "size": 10050337,
+      "version": 2
+    },
     "straubinger": {
       "format": 1,
       "path": "../packs/straubinger-f2eed8ec9f078bc5.json",
@@ -45,7 +52,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-09-25T23:55:43Z",
-  "release": 3,
+  "published": "2026-09-26T00:39:36Z",
+  "release": 4,
   "schema": 1
 }
