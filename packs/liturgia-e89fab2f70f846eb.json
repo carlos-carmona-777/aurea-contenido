@@ -1,0 +1,9789 @@
+{
+ "format": 1,
+ "source": "Evangelios del Leccionario de la Misa (Ordo lectionum Missae, 1981), cotejados con evangeli.net y con las tablas de LitCal (Liturgical Calendar API).",
+ "gospels": {
+  "Advent1:A": {
+   "ref": "Mt 24, 37-44",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      24,
+      37
+     ],
+     "to": [
+      24,
+      44
+     ]
+    }
+   ]
+  },
+  "Advent1:B": {
+   "ref": "Mc 13, 33-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      13,
+      33
+     ],
+     "to": [
+      13,
+      37
+     ]
+    }
+   ]
+  },
+  "Advent1:C": {
+   "ref": "Lc 21, 25-28. 34-36",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      25
+     ],
+     "to": [
+      21,
+      28
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      34
+     ],
+     "to": [
+      21,
+      36
+     ]
+    }
+   ]
+  },
+  "Advent2:A": {
+   "ref": "Mt 3, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      3,
+      1
+     ],
+     "to": [
+      3,
+      12
+     ]
+    }
+   ]
+  },
+  "Advent2:B": {
+   "ref": "Mc 1, 1-8",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      8
+     ]
+    }
+   ]
+  },
+  "Advent2:C": {
+   "ref": "Lc 3, 1-6",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      3,
+      1
+     ],
+     "to": [
+      3,
+      6
+     ]
+    }
+   ]
+  },
+  "Advent3:A": {
+   "ref": "Mt 11, 2-11",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      2
+     ],
+     "to": [
+      11,
+      11
+     ]
+    }
+   ]
+  },
+  "Advent3:B": {
+   "ref": "Jn 1, 6-8. 19-28",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      6
+     ],
+     "to": [
+      1,
+      8
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      1,
+      19
+     ],
+     "to": [
+      1,
+      28
+     ]
+    }
+   ]
+  },
+  "Advent3:C": {
+   "ref": "Lc 3, 10-18",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      3,
+      10
+     ],
+     "to": [
+      3,
+      18
+     ]
+    }
+   ]
+  },
+  "Advent4:A": {
+   "ref": "Mt 1, 18-24",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      18
+     ],
+     "to": [
+      1,
+      24
+     ]
+    }
+   ]
+  },
+  "Advent4:B": {
+   "ref": "Lc 1, 26-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      26
+     ],
+     "to": [
+      1,
+      38
+     ]
+    }
+   ]
+  },
+  "Advent4:C": {
+   "ref": "Lc 1, 39-45",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      39
+     ],
+     "to": [
+      1,
+      45
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Friday": {
+   "ref": "Mt 9, 27-31",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      27
+     ],
+     "to": [
+      9,
+      31
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Monday": {
+   "ref": "Mt 8, 5-11",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      5
+     ],
+     "to": [
+      8,
+      11
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Saturday": {
+   "ref": "Mt 9, 35—10, 1. 6-8",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      35
+     ],
+     "to": [
+      10,
+      1
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      6
+     ],
+     "to": [
+      10,
+      8
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Thursday": {
+   "ref": "Mt 7, 21. 24-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      21
+     ],
+     "to": [
+      7,
+      21
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      24
+     ],
+     "to": [
+      7,
+      27
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Tuesday": {
+   "ref": "Lc 10, 21-24",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      21
+     ],
+     "to": [
+      10,
+      24
+     ]
+    }
+   ]
+  },
+  "AdventWeekday1Wednesday": {
+   "ref": "Mt 15, 29-37",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      15,
+      29
+     ],
+     "to": [
+      15,
+      37
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Friday": {
+   "ref": "Mt 11, 16-19",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      16
+     ],
+     "to": [
+      11,
+      19
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Monday": {
+   "ref": "Lc 5, 17-26",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      17
+     ],
+     "to": [
+      5,
+      26
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Saturday": {
+   "ref": "Mt 17, 10-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      17,
+      10
+     ],
+     "to": [
+      17,
+      13
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Thursday": {
+   "ref": "Mt 11, 11-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      11
+     ],
+     "to": [
+      11,
+      15
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Tuesday": {
+   "ref": "Mt 18, 12-14",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      12
+     ],
+     "to": [
+      18,
+      14
+     ]
+    }
+   ]
+  },
+  "AdventWeekday2Wednesday": {
+   "ref": "Mt 11, 28-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      28
+     ],
+     "to": [
+      11,
+      30
+     ]
+    }
+   ]
+  },
+  "AdventWeekday3Friday": {
+   "ref": "Jn 5, 33-36",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      5,
+      33
+     ],
+     "to": [
+      5,
+      36
+     ]
+    }
+   ]
+  },
+  "AdventWeekday3Monday": {
+   "ref": "Mt 21, 23-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      23
+     ],
+     "to": [
+      21,
+      27
+     ]
+    }
+   ]
+  },
+  "AdventWeekday3Thursday": {
+   "ref": "Lc 7, 24-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      24
+     ],
+     "to": [
+      7,
+      30
+     ]
+    }
+   ]
+  },
+  "AdventWeekday3Tuesday": {
+   "ref": "Mt 21, 28-32",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      28
+     ],
+     "to": [
+      21,
+      32
+     ]
+    }
+   ]
+  },
+  "AdventWeekday3Wednesday": {
+   "ref": "Lc 7, 19-23",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      19
+     ],
+     "to": [
+      7,
+      23
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec17": {
+   "ref": "Mt 1, 1-17",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      17
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec18": {
+   "ref": "Mt 1, 18-24",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      18
+     ],
+     "to": [
+      1,
+      24
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec19": {
+   "ref": "Lc 1, 5-25",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      5
+     ],
+     "to": [
+      1,
+      25
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec20": {
+   "ref": "Lc 1, 26-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      26
+     ],
+     "to": [
+      1,
+      38
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec21": {
+   "ref": "Lc 1, 39-45",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      39
+     ],
+     "to": [
+      1,
+      45
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec22": {
+   "ref": "Lc 1, 46-56",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      46
+     ],
+     "to": [
+      1,
+      56
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec23": {
+   "ref": "Lc 1, 57-66",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      57
+     ],
+     "to": [
+      1,
+      66
+     ]
+    }
+   ]
+  },
+  "AdventWeekdayDec24": {
+   "ref": "Lc 1, 67-79",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      67
+     ],
+     "to": [
+      1,
+      79
+     ]
+    }
+   ]
+  },
+  "AllSaints": {
+   "ref": "Mt 5, 1-12a",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      12
+     ]
+    }
+   ]
+  },
+  "AllSouls": {
+   "ref": "Lc 23, 33. 39-43",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      23,
+      33
+     ],
+     "to": [
+      23,
+      33
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      23,
+      39
+     ],
+     "to": [
+      23,
+      43
+     ]
+    }
+   ]
+  },
+  "Annunciation": {
+   "ref": "Lc 1, 26-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      26
+     ],
+     "to": [
+      1,
+      38
+     ]
+    }
+   ]
+  },
+  "Ascension:A": {
+   "ref": "Mt 28, 16-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      28,
+      16
+     ],
+     "to": [
+      28,
+      20
+     ]
+    }
+   ]
+  },
+  "Ascension:B": {
+   "ref": "Mc 16, 15-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      16,
+      15
+     ],
+     "to": [
+      16,
+      20
+     ]
+    }
+   ]
+  },
+  "Ascension:C": {
+   "ref": "Lc 24, 46-53",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      46
+     ],
+     "to": [
+      24,
+      53
+     ]
+    }
+   ]
+  },
+  "AshWednesday": {
+   "ref": "Mt 6, 1-6. 16-18",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      6
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      16
+     ],
+     "to": [
+      6,
+      18
+     ]
+    }
+   ]
+  },
+  "Assumption": {
+   "ref": "Lc 1, 39-56",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      39
+     ],
+     "to": [
+      1,
+      56
+     ]
+    }
+   ]
+  },
+  "BaptismLord:A": {
+   "ref": "Mt 3, 13-17",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      3,
+      13
+     ],
+     "to": [
+      3,
+      17
+     ]
+    }
+   ]
+  },
+  "BaptismLord:B": {
+   "ref": "Mc 1, 7-11",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      7
+     ],
+     "to": [
+      1,
+      11
+     ]
+    }
+   ]
+  },
+  "BaptismLord:C": {
+   "ref": "Lc 3, 15-16. 21-22",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      3,
+      15
+     ],
+     "to": [
+      3,
+      16
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      3,
+      21
+     ],
+     "to": [
+      3,
+      22
+     ]
+    }
+   ]
+  },
+  "BeheadingJohnBaptist": {
+   "ref": "Mc 6, 17-29",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      17
+     ],
+     "to": [
+      6,
+      29
+     ]
+    }
+   ]
+  },
+  "ChairStPeter": {
+   "ref": "Mt 16, 13-19",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      13
+     ],
+     "to": [
+      16,
+      19
+     ]
+    }
+   ]
+  },
+  "ChristKing:A": {
+   "ref": "Mt 25, 31-46",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      31
+     ],
+     "to": [
+      25,
+      46
+     ]
+    }
+   ]
+  },
+  "ChristKing:B": {
+   "ref": "Jn 18, 33-37",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      18,
+      33
+     ],
+     "to": [
+      18,
+      37
+     ]
+    }
+   ]
+  },
+  "ChristKing:C": {
+   "ref": "Lc 23, 35-43",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      23,
+      35
+     ],
+     "to": [
+      23,
+      43
+     ]
+    }
+   ]
+  },
+  "Christmas2:A": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "Christmas2:B": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "Christmas2:C": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "Christmas:A": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "Christmas:B": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "Christmas:C": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayDec29": {
+   "ref": "Lc 2, 22-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      22
+     ],
+     "to": [
+      2,
+      35
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayDec30": {
+   "ref": "Lc 2, 36-40",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      36
+     ],
+     "to": [
+      2,
+      40
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayDec31": {
+   "ref": "Jn 1, 1-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      18
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan2": {
+   "ref": "Jn 1, 19-28",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      19
+     ],
+     "to": [
+      1,
+      28
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan3": {
+   "ref": "Jn 1, 29-34",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      29
+     ],
+     "to": [
+      1,
+      34
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan4": {
+   "ref": "Jn 1, 35-42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      35
+     ],
+     "to": [
+      1,
+      42
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan5": {
+   "ref": "Jn 1, 43-51",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      43
+     ],
+     "to": [
+      1,
+      51
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan6": {
+   "ref": "Mc 1, 7-11",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      7
+     ],
+     "to": [
+      1,
+      11
+     ]
+    }
+   ]
+  },
+  "ChristmasWeekdayJan7": {
+   "ref": "Jn 2, 1-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      11
+     ]
+    }
+   ]
+  },
+  "ConversionStPaul": {
+   "ref": "Mc 16, 15-18",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      16,
+      15
+     ],
+     "to": [
+      16,
+      18
+     ]
+    }
+   ]
+  },
+  "CorpusChristi:A": {
+   "ref": "Jn 6, 51-58",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      51
+     ],
+     "to": [
+      6,
+      59
+     ]
+    }
+   ]
+  },
+  "CorpusChristi:B": {
+   "ref": "Mc 14, 12-16. 22-26",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      14,
+      12
+     ],
+     "to": [
+      14,
+      16
+     ]
+    },
+    {
+     "book": "Mark",
+     "from": [
+      14,
+      22
+     ],
+     "to": [
+      14,
+      26
+     ]
+    }
+   ]
+  },
+  "CorpusChristi:C": {
+   "ref": "Lc 9, 11b-17",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      11
+     ],
+     "to": [
+      9,
+      17
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyFriday": {
+   "ref": "Lc 5, 12-16",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      12
+     ],
+     "to": [
+      5,
+      16
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan10": {
+   "ref": "Lc 4, 14-22a",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      14
+     ],
+     "to": [
+      4,
+      22
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan11": {
+   "ref": "Lc 5, 12-16",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      12
+     ],
+     "to": [
+      5,
+      16
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan12": {
+   "ref": "Jn 3, 22-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      22
+     ],
+     "to": [
+      3,
+      30
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan7": {
+   "ref": "Mt 4, 12-17. 23-25",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      12
+     ],
+     "to": [
+      4,
+      17
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      23
+     ],
+     "to": [
+      4,
+      25
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan8": {
+   "ref": "Mc 6, 34-44",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      34
+     ],
+     "to": [
+      6,
+      44
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyJan9": {
+   "ref": "Mc 6, 45-52",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      45
+     ],
+     "to": [
+      6,
+      52
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyMonday": {
+   "ref": "Mt 4, 12-17. 23-25",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      12
+     ],
+     "to": [
+      4,
+      17
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      23
+     ],
+     "to": [
+      4,
+      25
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanySaturday": {
+   "ref": "Jn 3, 22-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      22
+     ],
+     "to": [
+      3,
+      30
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyThursday": {
+   "ref": "Lc 4, 14-22a",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      14
+     ],
+     "to": [
+      4,
+      22
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyTuesday": {
+   "ref": "Mc 6, 34-44",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      34
+     ],
+     "to": [
+      6,
+      44
+     ]
+    }
+   ]
+  },
+  "DayAfterEpiphanyWednesday": {
+   "ref": "Mc 6, 45-52",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      45
+     ],
+     "to": [
+      6,
+      52
+     ]
+    }
+   ]
+  },
+  "DedicationLateran": {
+   "ref": "Jn 2, 13-22",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      2,
+      13
+     ],
+     "to": [
+      2,
+      22
+     ]
+    }
+   ]
+  },
+  "Easter2:A": {
+   "ref": "Jn 20, 19-31",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      31
+     ]
+    }
+   ]
+  },
+  "Easter2:B": {
+   "ref": "Jn 20, 19-31",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      31
+     ]
+    }
+   ]
+  },
+  "Easter2:C": {
+   "ref": "Jn 20, 19-31",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      31
+     ]
+    }
+   ]
+  },
+  "Easter3:A": {
+   "ref": "Lc 24, 13-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      13
+     ],
+     "to": [
+      24,
+      35
+     ]
+    }
+   ]
+  },
+  "Easter3:B": {
+   "ref": "Lc 24, 35-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      35
+     ],
+     "to": [
+      24,
+      48
+     ]
+    }
+   ]
+  },
+  "Easter3:C": {
+   "ref": "Jn 21, 1-19",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      21,
+      1
+     ],
+     "to": [
+      21,
+      19
+     ]
+    }
+   ]
+  },
+  "Easter4:A": {
+   "ref": "Jn 10, 1-10",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      10
+     ]
+    }
+   ]
+  },
+  "Easter4:B": {
+   "ref": "Jn 10, 11-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      11
+     ],
+     "to": [
+      10,
+      18
+     ]
+    }
+   ]
+  },
+  "Easter4:C": {
+   "ref": "Jn 10, 27-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      27
+     ],
+     "to": [
+      10,
+      30
+     ]
+    }
+   ]
+  },
+  "Easter5:A": {
+   "ref": "Jn 14, 1-12",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      12
+     ]
+    }
+   ]
+  },
+  "Easter5:B": {
+   "ref": "Jn 15, 1-8",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      8
+     ]
+    }
+   ]
+  },
+  "Easter5:C": {
+   "ref": "Jn 13, 31-33a. 34-35",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      31
+     ],
+     "to": [
+      13,
+      33
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      13,
+      34
+     ],
+     "to": [
+      13,
+      35
+     ]
+    }
+   ]
+  },
+  "Easter6:A": {
+   "ref": "Jn 14, 15-21",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      15
+     ],
+     "to": [
+      14,
+      21
+     ]
+    }
+   ]
+  },
+  "Easter6:B": {
+   "ref": "Jn 15, 9-17",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      9
+     ],
+     "to": [
+      15,
+      17
+     ]
+    }
+   ]
+  },
+  "Easter6:C": {
+   "ref": "Jn 14, 23-29",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      23
+     ],
+     "to": [
+      14,
+      29
+     ]
+    }
+   ]
+  },
+  "Easter7:A": {
+   "ref": "Jn 17, 1-11a",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      1
+     ],
+     "to": [
+      17,
+      11
+     ]
+    }
+   ]
+  },
+  "Easter7:B": {
+   "ref": "Jn 17, 11b-19",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      11
+     ],
+     "to": [
+      17,
+      19
+     ]
+    }
+   ]
+  },
+  "Easter7:C": {
+   "ref": "Jn 17, 20-26",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      20
+     ],
+     "to": [
+      17,
+      26
+     ]
+    }
+   ]
+  },
+  "Easter:A": {
+   "ref": "Jn 20, 1-9",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      9
+     ]
+    }
+   ]
+  },
+  "Easter:B": {
+   "ref": "Jn 20, 1-9",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      9
+     ]
+    }
+   ]
+  },
+  "Easter:C": {
+   "ref": "Jn 20, 1-9",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      9
+     ]
+    }
+   ]
+  },
+  "EasterVigil:A": {
+   "ref": "Mt 28, 1-10",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      28,
+      1
+     ],
+     "to": [
+      28,
+      10
+     ]
+    }
+   ]
+  },
+  "EasterVigil:B": {
+   "ref": "Mc 16, 1-7",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      16,
+      1
+     ],
+     "to": [
+      16,
+      7
+     ]
+    }
+   ]
+  },
+  "EasterVigil:C": {
+   "ref": "Lc 24, 1-12",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      1
+     ],
+     "to": [
+      24,
+      12
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Friday": {
+   "ref": "Jn 6, 1-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      15
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Monday": {
+   "ref": "Jn 3, 1-8",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      1
+     ],
+     "to": [
+      3,
+      8
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Saturday": {
+   "ref": "Jn 6, 16-21",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      16
+     ],
+     "to": [
+      6,
+      21
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Thursday": {
+   "ref": "Jn 3, 31-36",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      31
+     ],
+     "to": [
+      3,
+      36
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Tuesday": {
+   "ref": "Jn 3, 7b-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      7
+     ],
+     "to": [
+      3,
+      15
+     ]
+    }
+   ]
+  },
+  "EasterWeekday2Wednesday": {
+   "ref": "Jn 3, 16-21",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      16
+     ],
+     "to": [
+      3,
+      21
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Friday": {
+   "ref": "Jn 6, 52-59",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      53
+     ],
+     "to": [
+      6,
+      60
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Monday": {
+   "ref": "Jn 6, 22-29",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      22
+     ],
+     "to": [
+      6,
+      29
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Saturday": {
+   "ref": "Jn 6, 60-69",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      61
+     ],
+     "to": [
+      6,
+      70
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Thursday": {
+   "ref": "Jn 6, 44-51",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      44
+     ],
+     "to": [
+      6,
+      52
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Tuesday": {
+   "ref": "Jn 6, 30-35",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      30
+     ],
+     "to": [
+      6,
+      35
+     ]
+    }
+   ]
+  },
+  "EasterWeekday3Wednesday": {
+   "ref": "Jn 6, 35-40",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      35
+     ],
+     "to": [
+      6,
+      40
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Friday": {
+   "ref": "Jn 14, 1-6",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      6
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Monday:A": {
+   "ref": "Jn 10, 11-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      11
+     ],
+     "to": [
+      10,
+      18
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Monday:B": {
+   "ref": "Jn 10, 1-10",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      10
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Monday:C": {
+   "ref": "Jn 10, 1-10",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      10
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Saturday": {
+   "ref": "Jn 14, 7-14",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      7
+     ],
+     "to": [
+      14,
+      14
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Thursday": {
+   "ref": "Jn 13, 16-20",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      16
+     ],
+     "to": [
+      13,
+      20
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Tuesday": {
+   "ref": "Jn 10, 22-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      22
+     ],
+     "to": [
+      10,
+      30
+     ]
+    }
+   ]
+  },
+  "EasterWeekday4Wednesday": {
+   "ref": "Jn 12, 44-50",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      12,
+      44
+     ],
+     "to": [
+      12,
+      50
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Friday": {
+   "ref": "Jn 15, 12-17",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      12
+     ],
+     "to": [
+      15,
+      17
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Monday": {
+   "ref": "Jn 14, 21-26",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      21
+     ],
+     "to": [
+      14,
+      26
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Saturday": {
+   "ref": "Jn 15, 18-21",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      18
+     ],
+     "to": [
+      15,
+      21
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Thursday": {
+   "ref": "Jn 15, 9-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      9
+     ],
+     "to": [
+      15,
+      11
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Tuesday": {
+   "ref": "Jn 14, 27-31a",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      27
+     ],
+     "to": [
+      14,
+      31
+     ]
+    }
+   ]
+  },
+  "EasterWeekday5Wednesday": {
+   "ref": "Jn 15, 1-8",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      8
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Friday": {
+   "ref": "Jn 16, 20-23a",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      20
+     ],
+     "to": [
+      16,
+      23
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Monday": {
+   "ref": "Jn 15, 26—16, 4a",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      26
+     ],
+     "to": [
+      16,
+      4
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Saturday": {
+   "ref": "Jn 16, 23b-28",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      23
+     ],
+     "to": [
+      16,
+      28
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Thursday": {
+   "ref": "Jn 16, 16-20",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      16
+     ],
+     "to": [
+      16,
+      20
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Tuesday": {
+   "ref": "Jn 16, 5-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      5
+     ],
+     "to": [
+      16,
+      11
+     ]
+    }
+   ]
+  },
+  "EasterWeekday6Wednesday": {
+   "ref": "Jn 16, 12-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      12
+     ],
+     "to": [
+      16,
+      15
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Friday": {
+   "ref": "Jn 21, 15-19",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      21,
+      15
+     ],
+     "to": [
+      21,
+      19
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Monday": {
+   "ref": "Jn 16, 29-33",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      29
+     ],
+     "to": [
+      16,
+      33
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Saturday": {
+   "ref": "Jn 21, 20-25",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      21,
+      20
+     ],
+     "to": [
+      21,
+      25
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Thursday": {
+   "ref": "Jn 17, 20-26",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      20
+     ],
+     "to": [
+      17,
+      26
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Tuesday": {
+   "ref": "Jn 17, 1-11a",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      1
+     ],
+     "to": [
+      17,
+      11
+     ]
+    }
+   ]
+  },
+  "EasterWeekday7Wednesday": {
+   "ref": "Jn 17, 11b-19",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      17,
+      11
+     ],
+     "to": [
+      17,
+      19
+     ]
+    }
+   ]
+  },
+  "Epiphany:A": {
+   "ref": "Mt 2, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "Epiphany:B": {
+   "ref": "Mt 2, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "Epiphany:C": {
+   "ref": "Mt 2, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "ExaltationCross": {
+   "ref": "Jn 3, 13-17",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      13
+     ],
+     "to": [
+      3,
+      17
+     ]
+    }
+   ]
+  },
+  "FriOctaveEaster": {
+   "ref": "Jn 21, 1-14",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      21,
+      1
+     ],
+     "to": [
+      21,
+      14
+     ]
+    }
+   ]
+  },
+  "FridayAfterAshWednesday": {
+   "ref": "Mt 9, 14-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      14
+     ],
+     "to": [
+      9,
+      15
+     ]
+    }
+   ]
+  },
+  "GoodFri:A": {
+   "ref": "Jn 18, 1—19, 42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      19,
+      42
+     ]
+    }
+   ]
+  },
+  "GoodFri:B": {
+   "ref": "Jn 18, 1—19, 42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      19,
+      42
+     ]
+    }
+   ]
+  },
+  "GoodFri:C": {
+   "ref": "Jn 18, 1—19, 42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      19,
+      42
+     ]
+    }
+   ]
+  },
+  "GuardianAngels": {
+   "ref": "Mt 18, 1-5. 10",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      18,
+      5
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      10
+     ],
+     "to": [
+      18,
+      10
+     ]
+    }
+   ]
+  },
+  "HolyFamily:A": {
+   "ref": "Mt 2, 13-15. 19-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      13
+     ],
+     "to": [
+      2,
+      15
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      19
+     ],
+     "to": [
+      2,
+      23
+     ]
+    }
+   ]
+  },
+  "HolyFamily:B": {
+   "ref": "Lc 2, 22-40",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      22
+     ],
+     "to": [
+      2,
+      40
+     ]
+    }
+   ]
+  },
+  "HolyFamily:C": {
+   "ref": "Lc 2, 41-52",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      41
+     ],
+     "to": [
+      2,
+      52
+     ]
+    }
+   ]
+  },
+  "HolyInnocents": {
+   "ref": "Mt 2, 13-18",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      2,
+      13
+     ],
+     "to": [
+      2,
+      18
+     ]
+    }
+   ]
+  },
+  "HolyThurs:A": {
+   "ref": "Jn 13, 1-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      15
+     ]
+    }
+   ]
+  },
+  "HolyThurs:B": {
+   "ref": "Jn 13, 1-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      15
+     ]
+    }
+   ]
+  },
+  "HolyThurs:C": {
+   "ref": "Jn 13, 1-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      15
+     ]
+    }
+   ]
+  },
+  "ImmaculateConception": {
+   "ref": "Lc 1, 26-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      26
+     ],
+     "to": [
+      1,
+      38
+     ]
+    }
+   ]
+  },
+  "ImmaculateHeart": {
+   "ref": "Lc 2, 41-51",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      41
+     ],
+     "to": [
+      2,
+      51
+     ]
+    }
+   ]
+  },
+  "Lent1:A": {
+   "ref": "Mt 4, 1-11",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      1
+     ],
+     "to": [
+      4,
+      11
+     ]
+    }
+   ]
+  },
+  "Lent1:B": {
+   "ref": "Mc 1, 12-15",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      12
+     ],
+     "to": [
+      1,
+      15
+     ]
+    }
+   ]
+  },
+  "Lent1:C": {
+   "ref": "Lc 4, 1-13",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      1
+     ],
+     "to": [
+      4,
+      13
+     ]
+    }
+   ]
+  },
+  "Lent2:A": {
+   "ref": "Mt 17, 1-9",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      17,
+      1
+     ],
+     "to": [
+      17,
+      9
+     ]
+    }
+   ]
+  },
+  "Lent2:B": {
+   "ref": "Mc 9, 2-10",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      9
+     ]
+    }
+   ]
+  },
+  "Lent2:C": {
+   "ref": "Lc 9, 28-36",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      28
+     ],
+     "to": [
+      9,
+      36
+     ]
+    }
+   ]
+  },
+  "Lent3:A": {
+   "ref": "Jn 4, 5-42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      4,
+      5
+     ],
+     "to": [
+      4,
+      42
+     ]
+    }
+   ]
+  },
+  "Lent3:B": {
+   "ref": "Jn 2, 13-25",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      2,
+      13
+     ],
+     "to": [
+      2,
+      25
+     ]
+    }
+   ]
+  },
+  "Lent3:C": {
+   "ref": "Lc 13, 1-9",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      9
+     ]
+    }
+   ]
+  },
+  "Lent4:A": {
+   "ref": "Jn 9, 1-41",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      41
+     ]
+    }
+   ]
+  },
+  "Lent4:B": {
+   "ref": "Jn 3, 14-21",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      14
+     ],
+     "to": [
+      3,
+      21
+     ]
+    }
+   ]
+  },
+  "Lent4:C": {
+   "ref": "Lc 15, 1-3. 11-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      3
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      11
+     ],
+     "to": [
+      15,
+      32
+     ]
+    }
+   ]
+  },
+  "Lent5:A": {
+   "ref": "Jn 11, 1-45",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      11,
+      1
+     ],
+     "to": [
+      11,
+      45
+     ]
+    }
+   ]
+  },
+  "Lent5:B": {
+   "ref": "Jn 12, 20-33",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      12,
+      20
+     ],
+     "to": [
+      12,
+      33
+     ]
+    }
+   ]
+  },
+  "Lent5:C": {
+   "ref": "Jn 8, 1-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      11
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Friday": {
+   "ref": "Mt 5, 20-26",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      20
+     ],
+     "to": [
+      5,
+      26
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Monday": {
+   "ref": "Mt 25, 31-46",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      31
+     ],
+     "to": [
+      25,
+      46
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Saturday": {
+   "ref": "Mt 5, 43-48",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      43
+     ],
+     "to": [
+      5,
+      48
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Thursday": {
+   "ref": "Mt 7, 7-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      7
+     ],
+     "to": [
+      7,
+      12
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Tuesday": {
+   "ref": "Mt 6, 7-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      7
+     ],
+     "to": [
+      6,
+      15
+     ]
+    }
+   ]
+  },
+  "LentWeekday1Wednesday": {
+   "ref": "Lc 11, 29-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      29
+     ],
+     "to": [
+      11,
+      32
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Friday": {
+   "ref": "Mt 21, 33-43. 45-46",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      33
+     ],
+     "to": [
+      21,
+      43
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      45
+     ],
+     "to": [
+      21,
+      46
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Monday": {
+   "ref": "Lc 6, 36-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      36
+     ],
+     "to": [
+      6,
+      38
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Saturday": {
+   "ref": "Lc 15, 1-3. 11-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      3
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      11
+     ],
+     "to": [
+      15,
+      32
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Thursday": {
+   "ref": "Lc 16, 19-31",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      16,
+      19
+     ],
+     "to": [
+      16,
+      31
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Tuesday": {
+   "ref": "Mt 23, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      1
+     ],
+     "to": [
+      23,
+      12
+     ]
+    }
+   ]
+  },
+  "LentWeekday2Wednesday": {
+   "ref": "Mt 20, 17-28",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      20,
+      17
+     ],
+     "to": [
+      20,
+      28
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Friday": {
+   "ref": "Mc 12, 28b-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      28
+     ],
+     "to": [
+      12,
+      34
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Monday": {
+   "ref": "Lc 4, 24-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      24
+     ],
+     "to": [
+      4,
+      30
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Saturday": {
+   "ref": "Lc 18, 9-14",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      18,
+      9
+     ],
+     "to": [
+      18,
+      14
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Thursday": {
+   "ref": "Lc 11, 14-23",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      14
+     ],
+     "to": [
+      11,
+      23
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Tuesday": {
+   "ref": "Mt 18, 21-35",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      21
+     ],
+     "to": [
+      18,
+      35
+     ]
+    }
+   ]
+  },
+  "LentWeekday3Wednesday": {
+   "ref": "Mt 5, 17-19",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      17
+     ],
+     "to": [
+      5,
+      19
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Friday": {
+   "ref": "Jn 7, 1-2. 10. 14. 25-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      2
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      7,
+      10
+     ],
+     "to": [
+      7,
+      10
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      7,
+      14
+     ],
+     "to": [
+      7,
+      14
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      7,
+      25
+     ],
+     "to": [
+      7,
+      30
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Monday": {
+   "ref": "Jn 4, 43-54",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      4,
+      43
+     ],
+     "to": [
+      4,
+      54
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Saturday": {
+   "ref": "Jn 7, 40-53",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      7,
+      40
+     ],
+     "to": [
+      7,
+      53
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Thursday": {
+   "ref": "Jn 5, 31-47",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      5,
+      31
+     ],
+     "to": [
+      5,
+      47
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Tuesday": {
+   "ref": "Jn 5, 1-3. 5-16",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      3
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      5,
+      5
+     ],
+     "to": [
+      5,
+      16
+     ]
+    }
+   ]
+  },
+  "LentWeekday4Wednesday": {
+   "ref": "Jn 5, 17-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      5,
+      17
+     ],
+     "to": [
+      5,
+      30
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Friday": {
+   "ref": "Jn 10, 31-42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      10,
+      31
+     ],
+     "to": [
+      10,
+      42
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Monday:A": {
+   "ref": "Jn 8, 1-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      11
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Monday:B": {
+   "ref": "Jn 8, 1-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      11
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Monday:C": {
+   "ref": "Jn 8, 12-20",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      12
+     ],
+     "to": [
+      8,
+      20
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Saturday": {
+   "ref": "Jn 11, 45-56",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      11,
+      45
+     ],
+     "to": [
+      11,
+      56
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Thursday": {
+   "ref": "Jn 8, 51-59",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      51
+     ],
+     "to": [
+      8,
+      59
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Tuesday": {
+   "ref": "Jn 8, 21-30",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      21
+     ],
+     "to": [
+      8,
+      30
+     ]
+    }
+   ]
+  },
+  "LentWeekday5Wednesday": {
+   "ref": "Jn 8, 31-42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      8,
+      31
+     ],
+     "to": [
+      8,
+      42
+     ]
+    }
+   ]
+  },
+  "MaryMotherChurch": {
+   "ref": "Jn 19, 25-34",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      19,
+      25
+     ],
+     "to": [
+      19,
+      34
+     ]
+    }
+   ]
+  },
+  "MaryMotherOfGod:A": {
+   "ref": "Lc 2, 16-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      16
+     ],
+     "to": [
+      2,
+      21
+     ]
+    }
+   ]
+  },
+  "MaryMotherOfGod:B": {
+   "ref": "Lc 2, 16-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      16
+     ],
+     "to": [
+      2,
+      21
+     ]
+    }
+   ]
+  },
+  "MaryMotherOfGod:C": {
+   "ref": "Lc 2, 16-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      16
+     ],
+     "to": [
+      2,
+      21
+     ]
+    }
+   ]
+  },
+  "MonHolyWeek": {
+   "ref": "Jn 12, 1-11",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      12,
+      1
+     ],
+     "to": [
+      12,
+      11
+     ]
+    }
+   ]
+  },
+  "MonOctaveEaster": {
+   "ref": "Mt 28, 8-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      28,
+      8
+     ],
+     "to": [
+      28,
+      15
+     ]
+    }
+   ]
+  },
+  "NativityJohnBaptist": {
+   "ref": "Lc 1, 57-66. 80",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      57
+     ],
+     "to": [
+      1,
+      66
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      80
+     ],
+     "to": [
+      1,
+      80
+     ]
+    }
+   ]
+  },
+  "NativityVirginMary": {
+   "ref": "Mt 1, 1-16. 18-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      16
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      18
+     ],
+     "to": [
+      1,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdSunday10:A": {
+   "ref": "Mt 9, 9-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      9
+     ],
+     "to": [
+      9,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdSunday10:B": {
+   "ref": "Mc 3, 20-35",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      20
+     ],
+     "to": [
+      3,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdSunday10:C": {
+   "ref": "Lc 7, 11-17",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      11
+     ],
+     "to": [
+      7,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdSunday11:A": {
+   "ref": "Mt 9, 36—10, 8",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      36
+     ],
+     "to": [
+      10,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdSunday11:B": {
+   "ref": "Mc 4, 26-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      26
+     ],
+     "to": [
+      4,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdSunday11:C": {
+   "ref": "Lc 7, 36—8, 3",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      36
+     ],
+     "to": [
+      8,
+      3
+     ]
+    }
+   ]
+  },
+  "OrdSunday12:A": {
+   "ref": "Mt 10, 26-33",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      26
+     ],
+     "to": [
+      10,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdSunday12:B": {
+   "ref": "Mc 4, 35-41",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      35
+     ],
+     "to": [
+      4,
+      40
+     ]
+    }
+   ]
+  },
+  "OrdSunday12:C": {
+   "ref": "Lc 9, 18-24",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      18
+     ],
+     "to": [
+      9,
+      24
+     ]
+    }
+   ]
+  },
+  "OrdSunday13:A": {
+   "ref": "Mt 10, 37-42",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      37
+     ],
+     "to": [
+      10,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdSunday13:B": {
+   "ref": "Mc 5, 21-43",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      5,
+      21
+     ],
+     "to": [
+      5,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdSunday13:C": {
+   "ref": "Lc 9, 51-62",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      51
+     ],
+     "to": [
+      9,
+      62
+     ]
+    }
+   ]
+  },
+  "OrdSunday14:A": {
+   "ref": "Mt 11, 25-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      25
+     ],
+     "to": [
+      11,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdSunday14:B": {
+   "ref": "Mc 6, 1-6",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdSunday14:C": {
+   "ref": "Lc 10, 1-12. 17-20",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      12
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      17
+     ],
+     "to": [
+      10,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdSunday15:A": {
+   "ref": "Mt 13, 1-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdSunday15:B": {
+   "ref": "Mc 6, 7-13",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      7
+     ],
+     "to": [
+      6,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdSunday15:C": {
+   "ref": "Lc 10, 25-37",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      25
+     ],
+     "to": [
+      10,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdSunday16:A": {
+   "ref": "Mt 13, 24-43",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      24
+     ],
+     "to": [
+      13,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdSunday16:B": {
+   "ref": "Mc 6, 30-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      30
+     ],
+     "to": [
+      6,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdSunday16:C": {
+   "ref": "Lc 10, 38-42",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      38
+     ],
+     "to": [
+      10,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdSunday17:A": {
+   "ref": "Mt 13, 44-52",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      44
+     ],
+     "to": [
+      13,
+      52
+     ]
+    }
+   ]
+  },
+  "OrdSunday17:B": {
+   "ref": "Jn 6, 1-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdSunday17:C": {
+   "ref": "Lc 11, 1-13",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      1
+     ],
+     "to": [
+      11,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdSunday18:A": {
+   "ref": "Mt 14, 13-21",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      14,
+      13
+     ],
+     "to": [
+      14,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdSunday18:B": {
+   "ref": "Jn 6, 24-35",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      24
+     ],
+     "to": [
+      6,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdSunday18:C": {
+   "ref": "Lc 12, 13-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      13
+     ],
+     "to": [
+      12,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdSunday19:A": {
+   "ref": "Mt 14, 22-33",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      14,
+      22
+     ],
+     "to": [
+      14,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdSunday19:B": {
+   "ref": "Jn 6, 41-51",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      41
+     ],
+     "to": [
+      6,
+      52
+     ]
+    }
+   ]
+  },
+  "OrdSunday19:C": {
+   "ref": "Lc 12, 32-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      32
+     ],
+     "to": [
+      12,
+      48
+     ]
+    }
+   ]
+  },
+  "OrdSunday20:A": {
+   "ref": "Mt 15, 21-28",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      15,
+      21
+     ],
+     "to": [
+      15,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdSunday20:B": {
+   "ref": "Jn 6, 51-58",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      51
+     ],
+     "to": [
+      6,
+      59
+     ]
+    }
+   ]
+  },
+  "OrdSunday20:C": {
+   "ref": "Lc 12, 49-53",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      49
+     ],
+     "to": [
+      12,
+      53
+     ]
+    }
+   ]
+  },
+  "OrdSunday21:A": {
+   "ref": "Mt 16, 13-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      13
+     ],
+     "to": [
+      16,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdSunday21:B": {
+   "ref": "Jn 6, 60-69",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      6,
+      61
+     ],
+     "to": [
+      6,
+      70
+     ]
+    }
+   ]
+  },
+  "OrdSunday21:C": {
+   "ref": "Lc 13, 22-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      22
+     ],
+     "to": [
+      13,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdSunday22:A": {
+   "ref": "Mt 16, 21-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      21
+     ],
+     "to": [
+      16,
+      27
+     ]
+    }
+   ]
+  },
+  "OrdSunday22:B": {
+   "ref": "Mc 7, 1-8. 14-15. 21-23",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      8
+     ]
+    },
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      14
+     ],
+     "to": [
+      7,
+      15
+     ]
+    },
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      21
+     ],
+     "to": [
+      7,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdSunday22:C": {
+   "ref": "Lc 14, 1. 7-14",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      1
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      7
+     ],
+     "to": [
+      14,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdSunday23:A": {
+   "ref": "Mt 18, 15-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      15
+     ],
+     "to": [
+      18,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdSunday23:B": {
+   "ref": "Mc 7, 31-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      31
+     ],
+     "to": [
+      7,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdSunday23:C": {
+   "ref": "Lc 14, 25-33",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      25
+     ],
+     "to": [
+      14,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdSunday24:A": {
+   "ref": "Mt 18, 21-35",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      21
+     ],
+     "to": [
+      18,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdSunday24:B": {
+   "ref": "Mc 8, 27-35",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      27
+     ],
+     "to": [
+      8,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdSunday24:C": {
+   "ref": "Lc 15, 1-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdSunday25:A": {
+   "ref": "Mt 20, 1-16a",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdSunday25:B": {
+   "ref": "Mc 9, 30-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      29
+     ],
+     "to": [
+      9,
+      36
+     ]
+    }
+   ]
+  },
+  "OrdSunday25:C": {
+   "ref": "Lc 16, 1-13",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      16,
+      1
+     ],
+     "to": [
+      16,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdSunday26:A": {
+   "ref": "Mt 21, 28-32",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      28
+     ],
+     "to": [
+      21,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdSunday26:B": {
+   "ref": "Mc 9, 38-43. 45. 47-48",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      37
+     ],
+     "to": [
+      9,
+      42
+     ]
+    },
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      44
+     ],
+     "to": [
+      9,
+      44
+     ]
+    },
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      46
+     ],
+     "to": [
+      9,
+      47
+     ]
+    }
+   ]
+  },
+  "OrdSunday26:C": {
+   "ref": "Lc 16, 19-31",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      16,
+      19
+     ],
+     "to": [
+      16,
+      31
+     ]
+    }
+   ]
+  },
+  "OrdSunday27:A": {
+   "ref": "Mt 21, 33-43",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      21,
+      33
+     ],
+     "to": [
+      21,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdSunday27:B": {
+   "ref": "Mc 10, 2-16",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      2
+     ],
+     "to": [
+      10,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdSunday27:C": {
+   "ref": "Lc 17, 5-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      5
+     ],
+     "to": [
+      17,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdSunday28:A": {
+   "ref": "Mt 22, 1-14",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      22,
+      1
+     ],
+     "to": [
+      22,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdSunday28:B": {
+   "ref": "Mc 10, 17-30",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      17
+     ],
+     "to": [
+      10,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdSunday28:C": {
+   "ref": "Lc 17, 11-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      11
+     ],
+     "to": [
+      17,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdSunday29:A": {
+   "ref": "Mt 22, 15-21",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      22,
+      15
+     ],
+     "to": [
+      22,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdSunday29:B": {
+   "ref": "Mc 10, 35-45",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      35
+     ],
+     "to": [
+      10,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdSunday29:C": {
+   "ref": "Lc 18, 1-8",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      18,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdSunday2:A": {
+   "ref": "Jn 1, 29-34",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      29
+     ],
+     "to": [
+      1,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdSunday2:B": {
+   "ref": "Jn 1, 35-42",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      35
+     ],
+     "to": [
+      1,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdSunday2:C": {
+   "ref": "Jn 2, 1-12",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdSunday30:A": {
+   "ref": "Mt 22, 34-40",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      22,
+      34
+     ],
+     "to": [
+      22,
+      40
+     ]
+    }
+   ]
+  },
+  "OrdSunday30:B": {
+   "ref": "Mc 10, 46-52",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      46
+     ],
+     "to": [
+      10,
+      52
+     ]
+    }
+   ]
+  },
+  "OrdSunday30:C": {
+   "ref": "Lc 18, 9-14",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      18,
+      9
+     ],
+     "to": [
+      18,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdSunday31:A": {
+   "ref": "Mt 23, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      1
+     ],
+     "to": [
+      23,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdSunday31:B": {
+   "ref": "Mc 12, 28-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      28
+     ],
+     "to": [
+      12,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdSunday31:C": {
+   "ref": "Lc 19, 1-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      19,
+      1
+     ],
+     "to": [
+      19,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdSunday32:A": {
+   "ref": "Mt 25, 1-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      1
+     ],
+     "to": [
+      25,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdSunday32:B": {
+   "ref": "Mc 12, 38-44",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      38
+     ],
+     "to": [
+      12,
+      44
+     ]
+    }
+   ]
+  },
+  "OrdSunday32:C": {
+   "ref": "Lc 20, 27-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      20,
+      27
+     ],
+     "to": [
+      20,
+      38
+     ]
+    }
+   ]
+  },
+  "OrdSunday33:A": {
+   "ref": "Mt 25, 14-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      14
+     ],
+     "to": [
+      25,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdSunday33:B": {
+   "ref": "Mc 13, 24-32",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      13,
+      24
+     ],
+     "to": [
+      13,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdSunday33:C": {
+   "ref": "Lc 21, 5-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      5
+     ],
+     "to": [
+      21,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdSunday3:A": {
+   "ref": "Mt 4, 12-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      12
+     ],
+     "to": [
+      4,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdSunday3:B": {
+   "ref": "Mc 1, 14-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      14
+     ],
+     "to": [
+      1,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdSunday3:C": {
+   "ref": "Lc 1, 1-4; 4, 14-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      1
+     ],
+     "to": [
+      1,
+      4
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      14
+     ],
+     "to": [
+      4,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdSunday4:A": {
+   "ref": "Mt 5, 1-12a",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdSunday4:B": {
+   "ref": "Mc 1, 21-28",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      21
+     ],
+     "to": [
+      1,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdSunday4:C": {
+   "ref": "Lc 4, 21-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      21
+     ],
+     "to": [
+      4,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdSunday5:A": {
+   "ref": "Mt 5, 13-16",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      13
+     ],
+     "to": [
+      5,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdSunday5:B": {
+   "ref": "Mc 1, 29-39",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      29
+     ],
+     "to": [
+      1,
+      39
+     ]
+    }
+   ]
+  },
+  "OrdSunday5:C": {
+   "ref": "Lc 5, 1-11",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      11
+     ]
+    }
+   ]
+  },
+  "OrdSunday6:A": {
+   "ref": "Mt 5, 17-37",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      17
+     ],
+     "to": [
+      5,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdSunday6:B": {
+   "ref": "Mc 1, 40-45",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      40
+     ],
+     "to": [
+      1,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdSunday6:C": {
+   "ref": "Lc 6, 17. 20-26",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      17
+     ],
+     "to": [
+      6,
+      17
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      20
+     ],
+     "to": [
+      6,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdSunday7:A": {
+   "ref": "Mt 5, 38-48",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      38
+     ],
+     "to": [
+      5,
+      48
+     ]
+    }
+   ]
+  },
+  "OrdSunday7:B": {
+   "ref": "Mc 2, 1-12",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdSunday7:C": {
+   "ref": "Lc 6, 27-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      27
+     ],
+     "to": [
+      6,
+      38
+     ]
+    }
+   ]
+  },
+  "OrdSunday8:A": {
+   "ref": "Mt 6, 24-34",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      24
+     ],
+     "to": [
+      6,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdSunday8:B": {
+   "ref": "Mc 2, 18-22",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      18
+     ],
+     "to": [
+      2,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdSunday8:C": {
+   "ref": "Lc 6, 39-45",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      39
+     ],
+     "to": [
+      6,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdSunday9:A": {
+   "ref": "Mt 7, 21-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      21
+     ],
+     "to": [
+      7,
+      27
+     ]
+    }
+   ]
+  },
+  "OrdSunday9:B": {
+   "ref": "Mc 2, 23—3, 6",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      23
+     ],
+     "to": [
+      3,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdSunday9:C": {
+   "ref": "Lc 7, 1-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Friday": {
+   "ref": "Mt 5, 27-32",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      27
+     ],
+     "to": [
+      5,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Monday": {
+   "ref": "Mt 5, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Saturday": {
+   "ref": "Mt 5, 33-37",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      33
+     ],
+     "to": [
+      5,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Thursday": {
+   "ref": "Mt 5, 20-26",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      20
+     ],
+     "to": [
+      5,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Tuesday": {
+   "ref": "Mt 5, 13-16",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      13
+     ],
+     "to": [
+      5,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdWeekday10Wednesday": {
+   "ref": "Mt 5, 17-19",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      17
+     ],
+     "to": [
+      5,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Friday": {
+   "ref": "Mt 6, 19-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      19
+     ],
+     "to": [
+      6,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Monday": {
+   "ref": "Mt 5, 38-42",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      38
+     ],
+     "to": [
+      5,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Saturday": {
+   "ref": "Mt 6, 24-34",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      24
+     ],
+     "to": [
+      6,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Thursday": {
+   "ref": "Mt 6, 7-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      7
+     ],
+     "to": [
+      6,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Tuesday": {
+   "ref": "Mt 5, 43-48",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      5,
+      43
+     ],
+     "to": [
+      5,
+      48
+     ]
+    }
+   ]
+  },
+  "OrdWeekday11Wednesday": {
+   "ref": "Mt 6, 1-6. 16-18",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      6
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      6,
+      16
+     ],
+     "to": [
+      6,
+      18
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Friday": {
+   "ref": "Mt 8, 1-4",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      4
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Monday": {
+   "ref": "Mt 7, 1-5",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      5
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Saturday": {
+   "ref": "Mt 8, 5-17",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      5
+     ],
+     "to": [
+      8,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Thursday": {
+   "ref": "Mt 7, 21-29",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      21
+     ],
+     "to": [
+      7,
+      29
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Tuesday": {
+   "ref": "Mt 7, 6. 12-14",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      6
+     ],
+     "to": [
+      7,
+      6
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      12
+     ],
+     "to": [
+      7,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdWeekday12Wednesday": {
+   "ref": "Mt 7, 15-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      7,
+      15
+     ],
+     "to": [
+      7,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Friday": {
+   "ref": "Mt 9, 9-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      9
+     ],
+     "to": [
+      9,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Monday": {
+   "ref": "Mt 8, 18-22",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      18
+     ],
+     "to": [
+      8,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Saturday": {
+   "ref": "Mt 9, 14-17",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      14
+     ],
+     "to": [
+      9,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Thursday": {
+   "ref": "Mt 9, 1-8",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Tuesday": {
+   "ref": "Mt 8, 23-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      23
+     ],
+     "to": [
+      8,
+      27
+     ]
+    }
+   ]
+  },
+  "OrdWeekday13Wednesday": {
+   "ref": "Mt 8, 28-34",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      8,
+      28
+     ],
+     "to": [
+      8,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Friday": {
+   "ref": "Mt 10, 16-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      16
+     ],
+     "to": [
+      10,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Monday": {
+   "ref": "Mt 9, 18-26",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      18
+     ],
+     "to": [
+      9,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Saturday": {
+   "ref": "Mt 10, 24-33",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      24
+     ],
+     "to": [
+      10,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Thursday": {
+   "ref": "Mt 10, 7-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      7
+     ],
+     "to": [
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Tuesday": {
+   "ref": "Mt 9, 32-38",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      32
+     ],
+     "to": [
+      9,
+      38
+     ]
+    }
+   ]
+  },
+  "OrdWeekday14Wednesday": {
+   "ref": "Mt 10, 1-7",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      7
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Friday": {
+   "ref": "Mt 12, 1-8",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      12,
+      1
+     ],
+     "to": [
+      12,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Monday": {
+   "ref": "Mt 10, 34—11, 1",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      34
+     ],
+     "to": [
+      11,
+      1
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Saturday": {
+   "ref": "Mt 12, 14-21",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      12,
+      14
+     ],
+     "to": [
+      12,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Thursday": {
+   "ref": "Mt 11, 28-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      28
+     ],
+     "to": [
+      11,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Tuesday": {
+   "ref": "Mt 11, 20-24",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      20
+     ],
+     "to": [
+      11,
+      24
+     ]
+    }
+   ]
+  },
+  "OrdWeekday15Wednesday": {
+   "ref": "Mt 11, 25-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      25
+     ],
+     "to": [
+      11,
+      27
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Friday": {
+   "ref": "Mt 13, 18-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      18
+     ],
+     "to": [
+      13,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Monday": {
+   "ref": "Mt 12, 38-42",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      12,
+      38
+     ],
+     "to": [
+      12,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Saturday": {
+   "ref": "Mt 13, 24-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      24
+     ],
+     "to": [
+      13,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Thursday": {
+   "ref": "Mt 13, 10-17",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      10
+     ],
+     "to": [
+      13,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Tuesday": {
+   "ref": "Mt 12, 46-50",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      12,
+      46
+     ],
+     "to": [
+      12,
+      50
+     ]
+    }
+   ]
+  },
+  "OrdWeekday16Wednesday": {
+   "ref": "Mt 13, 1-9",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      9
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Friday": {
+   "ref": "Mt 13, 54-58",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      54
+     ],
+     "to": [
+      13,
+      58
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Monday": {
+   "ref": "Mt 13, 31-35",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      31
+     ],
+     "to": [
+      13,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Saturday": {
+   "ref": "Mt 14, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Thursday": {
+   "ref": "Mt 13, 47-53",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      47
+     ],
+     "to": [
+      13,
+      53
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Tuesday": {
+   "ref": "Mt 13, 36-43",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      36
+     ],
+     "to": [
+      13,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdWeekday17Wednesday": {
+   "ref": "Mt 13, 44-46",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      13,
+      44
+     ],
+     "to": [
+      13,
+      46
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Friday": {
+   "ref": "Mt 16, 24-28",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      24
+     ],
+     "to": [
+      16,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Monday": {
+   "ref": "Mt 14, 13-21",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      14,
+      13
+     ],
+     "to": [
+      14,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Saturday": {
+   "ref": "Mt 17, 14-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      17,
+      14
+     ],
+     "to": [
+      17,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Thursday": {
+   "ref": "Mt 16, 13-23",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      13
+     ],
+     "to": [
+      16,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Tuesday": {
+   "ref": "Mt 14, 22-36",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      14,
+      22
+     ],
+     "to": [
+      14,
+      36
+     ]
+    }
+   ]
+  },
+  "OrdWeekday18Wednesday": {
+   "ref": "Mt 15, 21-28",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      15,
+      21
+     ],
+     "to": [
+      15,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Friday": {
+   "ref": "Mt 19, 3-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      19,
+      3
+     ],
+     "to": [
+      19,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Monday": {
+   "ref": "Mt 17, 22-27",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      17,
+      21
+     ],
+     "to": [
+      17,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Saturday": {
+   "ref": "Mt 19, 13-15",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      19,
+      13
+     ],
+     "to": [
+      19,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Thursday": {
+   "ref": "Mt 18, 21—19, 1",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      21
+     ],
+     "to": [
+      19,
+      1
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Tuesday": {
+   "ref": "Mt 18, 1-5. 10. 12-14",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      18,
+      5
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      10
+     ],
+     "to": [
+      18,
+      10
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      12
+     ],
+     "to": [
+      18,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdWeekday19Wednesday": {
+   "ref": "Mt 18, 15-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      18,
+      15
+     ],
+     "to": [
+      18,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Friday": {
+   "ref": "Mc 2, 1-12",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      1
+     ],
+     "to": [
+      2,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Monday": {
+   "ref": "Mc 1, 14-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      14
+     ],
+     "to": [
+      1,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Saturday": {
+   "ref": "Mc 2, 13-17",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      13
+     ],
+     "to": [
+      2,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Thursday": {
+   "ref": "Mc 1, 40-45",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      40
+     ],
+     "to": [
+      1,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Tuesday": {
+   "ref": "Mc 1, 21-28",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      21
+     ],
+     "to": [
+      1,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday1Wednesday": {
+   "ref": "Mc 1, 29-39",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      1,
+      29
+     ],
+     "to": [
+      1,
+      39
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Friday": {
+   "ref": "Mt 22, 34-40",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      22,
+      34
+     ],
+     "to": [
+      22,
+      40
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Monday": {
+   "ref": "Mt 19, 16-22",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      19,
+      16
+     ],
+     "to": [
+      19,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Saturday": {
+   "ref": "Mt 23, 1-12",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      1
+     ],
+     "to": [
+      23,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Thursday": {
+   "ref": "Mt 22, 1-14",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      22,
+      1
+     ],
+     "to": [
+      22,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Tuesday": {
+   "ref": "Mt 19, 23-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      19,
+      23
+     ],
+     "to": [
+      19,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday20Wednesday": {
+   "ref": "Mt 20, 1-16",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Friday": {
+   "ref": "Mt 25, 1-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      1
+     ],
+     "to": [
+      25,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Monday": {
+   "ref": "Mt 23, 13-22",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      13
+     ],
+     "to": [
+      23,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Saturday": {
+   "ref": "Mt 25, 14-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      25,
+      14
+     ],
+     "to": [
+      25,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Thursday": {
+   "ref": "Mt 24, 42-51",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      24,
+      42
+     ],
+     "to": [
+      24,
+      51
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Tuesday": {
+   "ref": "Mt 23, 23-26",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      23
+     ],
+     "to": [
+      23,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday21Wednesday": {
+   "ref": "Mt 23, 27-32",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      23,
+      27
+     ],
+     "to": [
+      23,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Friday": {
+   "ref": "Lc 5, 33-39",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      33
+     ],
+     "to": [
+      5,
+      39
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Monday": {
+   "ref": "Lc 4, 16-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      16
+     ],
+     "to": [
+      4,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Saturday": {
+   "ref": "Lc 6, 1-5",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      5
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Thursday": {
+   "ref": "Lc 5, 1-11",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      11
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Tuesday": {
+   "ref": "Lc 4, 31-37",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      31
+     ],
+     "to": [
+      4,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday22Wednesday": {
+   "ref": "Lc 4, 38-44",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      4,
+      38
+     ],
+     "to": [
+      4,
+      44
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Friday": {
+   "ref": "Lc 6, 39-42",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      39
+     ],
+     "to": [
+      6,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Monday": {
+   "ref": "Lc 6, 6-11",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      6
+     ],
+     "to": [
+      6,
+      11
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Saturday": {
+   "ref": "Lc 6, 43-49",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      43
+     ],
+     "to": [
+      6,
+      49
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Thursday": {
+   "ref": "Lc 6, 27-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      27
+     ],
+     "to": [
+      6,
+      38
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Tuesday": {
+   "ref": "Lc 6, 12-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      12
+     ],
+     "to": [
+      6,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday23Wednesday": {
+   "ref": "Lc 6, 20-26",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      20
+     ],
+     "to": [
+      6,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Friday": {
+   "ref": "Lc 8, 1-3",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      3
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Monday": {
+   "ref": "Lc 7, 1-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Saturday": {
+   "ref": "Lc 8, 4-15",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      8,
+      4
+     ],
+     "to": [
+      8,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Thursday": {
+   "ref": "Lc 7, 36-50",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      36
+     ],
+     "to": [
+      7,
+      50
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Tuesday": {
+   "ref": "Lc 7, 11-17",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      11
+     ],
+     "to": [
+      7,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday24Wednesday": {
+   "ref": "Lc 7, 31-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      7,
+      31
+     ],
+     "to": [
+      7,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Friday": {
+   "ref": "Lc 9, 18-22",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      18
+     ],
+     "to": [
+      9,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Monday": {
+   "ref": "Lc 8, 16-18",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      8,
+      16
+     ],
+     "to": [
+      8,
+      18
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Saturday": {
+   "ref": "Lc 9, 43b-45",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      43
+     ],
+     "to": [
+      9,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Thursday": {
+   "ref": "Lc 9, 7-9",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      7
+     ],
+     "to": [
+      9,
+      9
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Tuesday": {
+   "ref": "Lc 8, 19-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      8,
+      19
+     ],
+     "to": [
+      8,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday25Wednesday": {
+   "ref": "Lc 9, 1-6",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Friday": {
+   "ref": "Lc 10, 13-16",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      13
+     ],
+     "to": [
+      10,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Monday": {
+   "ref": "Lc 9, 46-50",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      46
+     ],
+     "to": [
+      9,
+      50
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Saturday": {
+   "ref": "Lc 10, 17-24",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      17
+     ],
+     "to": [
+      10,
+      24
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Thursday": {
+   "ref": "Lc 10, 1-12",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Tuesday": {
+   "ref": "Lc 9, 51-56",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      51
+     ],
+     "to": [
+      9,
+      56
+     ]
+    }
+   ]
+  },
+  "OrdWeekday26Wednesday": {
+   "ref": "Lc 9, 57-62",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      57
+     ],
+     "to": [
+      9,
+      62
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Friday": {
+   "ref": "Lc 11, 15-26",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      15
+     ],
+     "to": [
+      11,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Monday": {
+   "ref": "Lc 10, 25-37",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      25
+     ],
+     "to": [
+      10,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Saturday": {
+   "ref": "Lc 11, 27-28",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      27
+     ],
+     "to": [
+      11,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Thursday": {
+   "ref": "Lc 11, 5-13",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      5
+     ],
+     "to": [
+      11,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Tuesday": {
+   "ref": "Lc 10, 38-42",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      38
+     ],
+     "to": [
+      10,
+      42
+     ]
+    }
+   ]
+  },
+  "OrdWeekday27Wednesday": {
+   "ref": "Lc 11, 1-4",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      1
+     ],
+     "to": [
+      11,
+      4
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Friday": {
+   "ref": "Lc 12, 1-7",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      1
+     ],
+     "to": [
+      12,
+      7
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Monday": {
+   "ref": "Lc 11, 29-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      29
+     ],
+     "to": [
+      11,
+      32
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Saturday": {
+   "ref": "Lc 12, 8-12",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      8
+     ],
+     "to": [
+      12,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Thursday": {
+   "ref": "Lc 11, 47-54",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      47
+     ],
+     "to": [
+      11,
+      54
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Tuesday": {
+   "ref": "Lc 11, 37-41",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      37
+     ],
+     "to": [
+      11,
+      41
+     ]
+    }
+   ]
+  },
+  "OrdWeekday28Wednesday": {
+   "ref": "Lc 11, 42-46",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      11,
+      42
+     ],
+     "to": [
+      11,
+      46
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Friday": {
+   "ref": "Lc 12, 54-59",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      54
+     ],
+     "to": [
+      12,
+      59
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Monday": {
+   "ref": "Lc 12, 13-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      13
+     ],
+     "to": [
+      12,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Saturday": {
+   "ref": "Lc 13, 1-9",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      1
+     ],
+     "to": [
+      13,
+      9
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Thursday": {
+   "ref": "Lc 12, 49-53",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      49
+     ],
+     "to": [
+      12,
+      53
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Tuesday": {
+   "ref": "Lc 12, 35-38",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      35
+     ],
+     "to": [
+      12,
+      38
+     ]
+    }
+   ]
+  },
+  "OrdWeekday29Wednesday": {
+   "ref": "Lc 12, 39-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      12,
+      39
+     ],
+     "to": [
+      12,
+      48
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Friday": {
+   "ref": "Mc 3, 13-19",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      13
+     ],
+     "to": [
+      3,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Monday": {
+   "ref": "Mc 2, 18-22",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      18
+     ],
+     "to": [
+      2,
+      22
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Saturday": {
+   "ref": "Mc 3, 20-21",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      20
+     ],
+     "to": [
+      3,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Thursday": {
+   "ref": "Mc 3, 7-12",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      7
+     ],
+     "to": [
+      3,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Tuesday": {
+   "ref": "Mc 2, 23-28",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      2,
+      23
+     ],
+     "to": [
+      2,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday2Wednesday": {
+   "ref": "Mc 3, 1-6",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      1
+     ],
+     "to": [
+      3,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Friday": {
+   "ref": "Lc 14, 1-6",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Monday": {
+   "ref": "Lc 13, 10-17",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      10
+     ],
+     "to": [
+      13,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Saturday": {
+   "ref": "Lc 14, 1. 7-11",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      14,
+      1
+     ]
+    },
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      7
+     ],
+     "to": [
+      14,
+      11
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Thursday": {
+   "ref": "Lc 13, 31-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      31
+     ],
+     "to": [
+      13,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Tuesday": {
+   "ref": "Lc 13, 18-21",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      18
+     ],
+     "to": [
+      13,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday30Wednesday": {
+   "ref": "Lc 13, 22-30",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      13,
+      22
+     ],
+     "to": [
+      13,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Friday": {
+   "ref": "Lc 16, 1-8",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      16,
+      1
+     ],
+     "to": [
+      16,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Monday": {
+   "ref": "Lc 14, 12-14",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      12
+     ],
+     "to": [
+      14,
+      14
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Saturday": {
+   "ref": "Lc 16, 9-15",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      16,
+      9
+     ],
+     "to": [
+      16,
+      15
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Thursday": {
+   "ref": "Lc 15, 1-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      1
+     ],
+     "to": [
+      15,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Tuesday": {
+   "ref": "Lc 14, 15-24",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      15
+     ],
+     "to": [
+      14,
+      24
+     ]
+    }
+   ]
+  },
+  "OrdWeekday31Wednesday": {
+   "ref": "Lc 14, 25-33",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      14,
+      25
+     ],
+     "to": [
+      14,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Friday": {
+   "ref": "Lc 17, 26-37",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      26
+     ],
+     "to": [
+      17,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Monday": {
+   "ref": "Lc 17, 1-6",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      1
+     ],
+     "to": [
+      17,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Saturday": {
+   "ref": "Lc 18, 1-8",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      18,
+      1
+     ],
+     "to": [
+      18,
+      8
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Thursday": {
+   "ref": "Lc 17, 20-25",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      20
+     ],
+     "to": [
+      17,
+      25
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Tuesday": {
+   "ref": "Lc 17, 7-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      7
+     ],
+     "to": [
+      17,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday32Wednesday": {
+   "ref": "Lc 17, 11-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      17,
+      11
+     ],
+     "to": [
+      17,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Friday": {
+   "ref": "Lc 19, 45-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      19,
+      45
+     ],
+     "to": [
+      19,
+      48
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Monday": {
+   "ref": "Lc 18, 35-43",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      18,
+      35
+     ],
+     "to": [
+      18,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Saturday": {
+   "ref": "Lc 20, 27-40",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      20,
+      27
+     ],
+     "to": [
+      20,
+      40
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Thursday": {
+   "ref": "Lc 19, 41-44",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      19,
+      41
+     ],
+     "to": [
+      19,
+      44
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Tuesday": {
+   "ref": "Lc 19, 1-10",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      19,
+      1
+     ],
+     "to": [
+      19,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday33Wednesday": {
+   "ref": "Lc 19, 11-28",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      19,
+      11
+     ],
+     "to": [
+      19,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Friday": {
+   "ref": "Lc 21, 29-33",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      29
+     ],
+     "to": [
+      21,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Monday": {
+   "ref": "Lc 21, 1-4",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      1
+     ],
+     "to": [
+      21,
+      4
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Saturday": {
+   "ref": "Lc 21, 34-36",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      34
+     ],
+     "to": [
+      21,
+      36
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Thursday": {
+   "ref": "Lc 21, 20-28",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      20
+     ],
+     "to": [
+      21,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Tuesday": {
+   "ref": "Lc 21, 5-11",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      5
+     ],
+     "to": [
+      21,
+      11
+     ]
+    }
+   ]
+  },
+  "OrdWeekday34Wednesday": {
+   "ref": "Lc 21, 12-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      21,
+      12
+     ],
+     "to": [
+      21,
+      19
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Friday": {
+   "ref": "Mc 4, 26-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      26
+     ],
+     "to": [
+      4,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Monday": {
+   "ref": "Mc 3, 22-30",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      22
+     ],
+     "to": [
+      3,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Saturday": {
+   "ref": "Mc 4, 35-41",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      35
+     ],
+     "to": [
+      4,
+      40
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Thursday": {
+   "ref": "Mc 4, 21-25",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      21
+     ],
+     "to": [
+      4,
+      25
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Tuesday": {
+   "ref": "Mc 3, 31-35",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      3,
+      31
+     ],
+     "to": [
+      3,
+      35
+     ]
+    }
+   ]
+  },
+  "OrdWeekday3Wednesday": {
+   "ref": "Mc 4, 1-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      4,
+      1
+     ],
+     "to": [
+      4,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Friday": {
+   "ref": "Mc 6, 14-29",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      14
+     ],
+     "to": [
+      6,
+      29
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Monday": {
+   "ref": "Mc 5, 1-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      5,
+      1
+     ],
+     "to": [
+      5,
+      20
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Saturday": {
+   "ref": "Mc 6, 30-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      30
+     ],
+     "to": [
+      6,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Thursday": {
+   "ref": "Mc 6, 7-13",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      7
+     ],
+     "to": [
+      6,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Tuesday": {
+   "ref": "Mc 5, 21-43",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      5,
+      21
+     ],
+     "to": [
+      5,
+      43
+     ]
+    }
+   ]
+  },
+  "OrdWeekday4Wednesday": {
+   "ref": "Mc 6, 1-6",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      1
+     ],
+     "to": [
+      6,
+      6
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Friday": {
+   "ref": "Mc 7, 31-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      31
+     ],
+     "to": [
+      7,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Monday": {
+   "ref": "Mc 6, 53-56",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      6,
+      53
+     ],
+     "to": [
+      6,
+      56
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Saturday": {
+   "ref": "Mc 8, 1-10",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      1
+     ],
+     "to": [
+      8,
+      10
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Thursday": {
+   "ref": "Mc 7, 24-30",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      24
+     ],
+     "to": [
+      7,
+      30
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Tuesday": {
+   "ref": "Mc 7, 1-13",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      1
+     ],
+     "to": [
+      7,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday5Wednesday": {
+   "ref": "Mc 7, 14-23",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      7,
+      14
+     ],
+     "to": [
+      7,
+      23
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Friday": {
+   "ref": "Mc 8, 34—9, 1",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      34
+     ],
+     "to": [
+      8,
+      39
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Monday": {
+   "ref": "Mc 8, 11-13",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      11
+     ],
+     "to": [
+      8,
+      13
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Saturday": {
+   "ref": "Mc 9, 2-13",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Thursday": {
+   "ref": "Mc 8, 27-33",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      27
+     ],
+     "to": [
+      8,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Tuesday": {
+   "ref": "Mc 8, 14-21",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      14
+     ],
+     "to": [
+      8,
+      21
+     ]
+    }
+   ]
+  },
+  "OrdWeekday6Wednesday": {
+   "ref": "Mc 8, 22-26",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      8,
+      22
+     ],
+     "to": [
+      8,
+      26
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Friday": {
+   "ref": "Mc 10, 1-12",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Monday": {
+   "ref": "Mc 9, 14-29",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      13
+     ],
+     "to": [
+      9,
+      28
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Saturday": {
+   "ref": "Mc 10, 13-16",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      13
+     ],
+     "to": [
+      10,
+      16
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Thursday": {
+   "ref": "Mc 9, 41-50",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      40
+     ],
+     "to": [
+      9,
+      49
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Tuesday": {
+   "ref": "Mc 9, 30-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      29
+     ],
+     "to": [
+      9,
+      36
+     ]
+    }
+   ]
+  },
+  "OrdWeekday7Wednesday": {
+   "ref": "Mc 9, 38-40",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      37
+     ],
+     "to": [
+      9,
+      39
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Friday": {
+   "ref": "Mc 11, 11-25",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      11,
+      11
+     ],
+     "to": [
+      11,
+      25
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Monday": {
+   "ref": "Mc 10, 17-27",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      17
+     ],
+     "to": [
+      10,
+      27
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Saturday": {
+   "ref": "Mc 11, 27-33",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      11,
+      27
+     ],
+     "to": [
+      11,
+      33
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Thursday": {
+   "ref": "Mc 10, 46-52",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      46
+     ],
+     "to": [
+      10,
+      52
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Tuesday": {
+   "ref": "Mc 10, 28-31",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      28
+     ],
+     "to": [
+      10,
+      31
+     ]
+    }
+   ]
+  },
+  "OrdWeekday8Wednesday": {
+   "ref": "Mc 10, 32-45",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      10,
+      32
+     ],
+     "to": [
+      10,
+      45
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Friday": {
+   "ref": "Mc 12, 35-37",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      35
+     ],
+     "to": [
+      12,
+      37
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Monday": {
+   "ref": "Mc 12, 1-12",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      1
+     ],
+     "to": [
+      12,
+      12
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Saturday": {
+   "ref": "Mc 12, 38-44",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      38
+     ],
+     "to": [
+      12,
+      44
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Thursday": {
+   "ref": "Mc 12, 28-34",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      28
+     ],
+     "to": [
+      12,
+      34
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Tuesday": {
+   "ref": "Mc 12, 13-17",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      13
+     ],
+     "to": [
+      12,
+      17
+     ]
+    }
+   ]
+  },
+  "OrdWeekday9Wednesday": {
+   "ref": "Mc 12, 18-27",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      12,
+      18
+     ],
+     "to": [
+      12,
+      27
+     ]
+    }
+   ]
+  },
+  "OurLadyOfGuadalupe": {
+   "ref": "Lc 1, 39-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      39
+     ],
+     "to": [
+      1,
+      48
+     ]
+    }
+   ]
+  },
+  "OurLadyOfSorrows": {
+   "ref": "Lc 2, 33-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      33
+     ],
+     "to": [
+      2,
+      35
+     ]
+    }
+   ]
+  },
+  "PalmSun:A": {
+   "ref": "Mt 26, 14—27, 66",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      26,
+      14
+     ],
+     "to": [
+      27,
+      66
+     ]
+    }
+   ]
+  },
+  "PalmSun:B": {
+   "ref": "Mc 14, 1—15, 47",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      14,
+      1
+     ],
+     "to": [
+      15,
+      47
+     ]
+    }
+   ]
+  },
+  "PalmSun:C": {
+   "ref": "Lc 22, 14—23, 56",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      22,
+      14
+     ],
+     "to": [
+      23,
+      56
+     ]
+    }
+   ]
+  },
+  "Pentecost:A": {
+   "ref": "Jn 20, 19-23",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      23
+     ]
+    }
+   ]
+  },
+  "Pentecost:B": {
+   "ref": "Jn 20, 19-23",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      23
+     ]
+    }
+   ]
+  },
+  "Pentecost:C": {
+   "ref": "Jn 20, 19-23",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      19
+     ],
+     "to": [
+      20,
+      23
+     ]
+    }
+   ]
+  },
+  "Presentation": {
+   "ref": "Lc 2, 22-40",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      2,
+      22
+     ],
+     "to": [
+      2,
+      40
+     ]
+    }
+   ]
+  },
+  "SacredHeart:A": {
+   "ref": "Mt 11, 25-30",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      11,
+      25
+     ],
+     "to": [
+      11,
+      30
+     ]
+    }
+   ]
+  },
+  "SacredHeart:B": {
+   "ref": "Jn 19, 31-37",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      19,
+      31
+     ],
+     "to": [
+      19,
+      37
+     ]
+    }
+   ]
+  },
+  "SacredHeart:C": {
+   "ref": "Lc 15, 3-7",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      15,
+      3
+     ],
+     "to": [
+      15,
+      7
+     ]
+    }
+   ]
+  },
+  "SatOctaveEaster": {
+   "ref": "Mc 16, 9-15",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      16,
+      9
+     ],
+     "to": [
+      16,
+      15
+     ]
+    }
+   ]
+  },
+  "SaturdayAfterAshWednesday": {
+   "ref": "Lc 5, 27-32",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      5,
+      27
+     ],
+     "to": [
+      5,
+      32
+     ]
+    }
+   ]
+  },
+  "StAndrewAp": {
+   "ref": "Mt 4, 18-22",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      4,
+      18
+     ],
+     "to": [
+      4,
+      22
+     ]
+    }
+   ]
+  },
+  "StBartholomewAp": {
+   "ref": "Jn 1, 45-51",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      45
+     ],
+     "to": [
+      1,
+      51
+     ]
+    }
+   ]
+  },
+  "StJamesAp": {
+   "ref": "Mt 20, 20-28",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      20,
+      20
+     ],
+     "to": [
+      20,
+      28
+     ]
+    }
+   ]
+  },
+  "StJohnEvangelist": {
+   "ref": "Jn 20, 2-8",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      2
+     ],
+     "to": [
+      20,
+      8
+     ]
+    }
+   ]
+  },
+  "StJoseph": {
+   "ref": "Mt 1, 16. 18-21. 24a",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      16
+     ],
+     "to": [
+      1,
+      16
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      18
+     ],
+     "to": [
+      1,
+      21
+     ]
+    },
+    {
+     "book": "Matt",
+     "from": [
+      1,
+      24
+     ],
+     "to": [
+      1,
+      24
+     ]
+    }
+   ]
+  },
+  "StLawrenceDeacon": {
+   "ref": "Jn 12, 24-26",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      12,
+      24
+     ],
+     "to": [
+      12,
+      26
+     ]
+    }
+   ]
+  },
+  "StLukeEvangelist": {
+   "ref": "Lc 10, 1-9",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      1
+     ],
+     "to": [
+      10,
+      9
+     ]
+    }
+   ]
+  },
+  "StMarkEvangelist": {
+   "ref": "Mc 16, 15-20",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      16,
+      15
+     ],
+     "to": [
+      16,
+      20
+     ]
+    }
+   ]
+  },
+  "StMartha": {
+   "ref": "Lc 10, 38-42",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      10,
+      38
+     ],
+     "to": [
+      10,
+      42
+     ]
+    }
+   ]
+  },
+  "StMaryMagdalene": {
+   "ref": "Jn 20, 1-2. 11-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      1
+     ],
+     "to": [
+      20,
+      2
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      20,
+      11
+     ],
+     "to": [
+      20,
+      18
+     ]
+    }
+   ]
+  },
+  "StMatthewEvangelist": {
+   "ref": "Mt 9, 9-13",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      9,
+      9
+     ],
+     "to": [
+      9,
+      13
+     ]
+    }
+   ]
+  },
+  "StMatthiasAp": {
+   "ref": "Jn 15, 9-17",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      15,
+      9
+     ],
+     "to": [
+      15,
+      17
+     ]
+    }
+   ]
+  },
+  "StSimonStJudeAp": {
+   "ref": "Lc 6, 12-19",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      6,
+      12
+     ],
+     "to": [
+      6,
+      19
+     ]
+    }
+   ]
+  },
+  "StStephenProtomartyr": {
+   "ref": "Mt 10, 17-22",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      10,
+      17
+     ],
+     "to": [
+      10,
+      22
+     ]
+    }
+   ]
+  },
+  "StThomasAp": {
+   "ref": "Jn 20, 24-29",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      24
+     ],
+     "to": [
+      20,
+      29
+     ]
+    }
+   ]
+  },
+  "StsArchangels": {
+   "ref": "Jn 1, 47-51",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      1,
+      47
+     ],
+     "to": [
+      1,
+      51
+     ]
+    }
+   ]
+  },
+  "StsPeterPaulAp": {
+   "ref": "Mt 16, 13-19",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      16,
+      13
+     ],
+     "to": [
+      16,
+      19
+     ]
+    }
+   ]
+  },
+  "StsPhilipJames": {
+   "ref": "Jn 14, 6-14",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      14,
+      6
+     ],
+     "to": [
+      14,
+      14
+     ]
+    }
+   ]
+  },
+  "ThuOctaveEaster": {
+   "ref": "Lc 24, 35-48",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      35
+     ],
+     "to": [
+      24,
+      48
+     ]
+    }
+   ]
+  },
+  "ThursdayAfterAshWednesday": {
+   "ref": "Lc 9, 22-25",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      22
+     ],
+     "to": [
+      9,
+      25
+     ]
+    }
+   ]
+  },
+  "Transfiguration:A": {
+   "ref": "Mt 17, 1-9",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      17,
+      1
+     ],
+     "to": [
+      17,
+      9
+     ]
+    }
+   ]
+  },
+  "Transfiguration:B": {
+   "ref": "Mc 9, 2-10",
+   "ranges": [
+    {
+     "book": "Mark",
+     "from": [
+      9,
+      1
+     ],
+     "to": [
+      9,
+      9
+     ]
+    }
+   ]
+  },
+  "Transfiguration:C": {
+   "ref": "Lc 9, 28b-36",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      9,
+      28
+     ],
+     "to": [
+      9,
+      36
+     ]
+    }
+   ]
+  },
+  "Trinity:A": {
+   "ref": "Jn 3, 16-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      3,
+      16
+     ],
+     "to": [
+      3,
+      18
+     ]
+    }
+   ]
+  },
+  "Trinity:B": {
+   "ref": "Mt 28, 16-20",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      28,
+      16
+     ],
+     "to": [
+      28,
+      20
+     ]
+    }
+   ]
+  },
+  "Trinity:C": {
+   "ref": "Jn 16, 12-15",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      16,
+      12
+     ],
+     "to": [
+      16,
+      15
+     ]
+    }
+   ]
+  },
+  "TueHolyWeek": {
+   "ref": "Jn 13, 21-33. 36-38",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      13,
+      21
+     ],
+     "to": [
+      13,
+      33
+     ]
+    },
+    {
+     "book": "John",
+     "from": [
+      13,
+      36
+     ],
+     "to": [
+      13,
+      38
+     ]
+    }
+   ]
+  },
+  "TueOctaveEaster": {
+   "ref": "Jn 20, 11-18",
+   "ranges": [
+    {
+     "book": "John",
+     "from": [
+      20,
+      11
+     ],
+     "to": [
+      20,
+      18
+     ]
+    }
+   ]
+  },
+  "Visitation": {
+   "ref": "Lc 1, 39-56",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      1,
+      39
+     ],
+     "to": [
+      1,
+      56
+     ]
+    }
+   ]
+  },
+  "WedHolyWeek": {
+   "ref": "Mt 26, 14-25",
+   "ranges": [
+    {
+     "book": "Matt",
+     "from": [
+      26,
+      14
+     ],
+     "to": [
+      26,
+      25
+     ]
+    }
+   ]
+  },
+  "WedOctaveEaster": {
+   "ref": "Lc 24, 13-35",
+   "ranges": [
+    {
+     "book": "Luke",
+     "from": [
+      24,
+      13
+     ],
+     "to": [
+      24,
+      35
+     ]
+    }
+   ]
+  }
+ },
+ "celebrations": [
+  {
+   "key": "ConversionStPaul",
+   "month": 1,
+   "day": 25,
+   "rank": "feast",
+   "title": "La Conversión de san Pablo, apóstol",
+   "color": "white"
+  },
+  {
+   "key": "Presentation",
+   "month": 2,
+   "day": 2,
+   "rank": "feastOfTheLord",
+   "title": "La Presentación del Señor",
+   "color": "white"
+  },
+  {
+   "key": "ChairStPeter",
+   "month": 2,
+   "day": 22,
+   "rank": "feast",
+   "title": "La Cátedra de san Pedro, apóstol",
+   "color": "white"
+  },
+  {
+   "key": "StJoseph",
+   "month": 3,
+   "day": 19,
+   "rank": "solemnity",
+   "title": "San José, esposo de la Virgen María",
+   "color": "white"
+  },
+  {
+   "key": "Annunciation",
+   "month": 3,
+   "day": 25,
+   "rank": "solemnity",
+   "title": "La Anunciación del Señor",
+   "color": "white"
+  },
+  {
+   "key": "StMarkEvangelist",
+   "month": 4,
+   "day": 25,
+   "rank": "feast",
+   "title": "San Marcos, evangelista",
+   "color": "red"
+  },
+  {
+   "key": "StsPhilipJames",
+   "month": 5,
+   "day": 3,
+   "rank": "feast",
+   "title": "Santos Felipe y Santiago, apóstoles",
+   "color": "red"
+  },
+  {
+   "key": "StMatthiasAp",
+   "month": 5,
+   "day": 14,
+   "rank": "feast",
+   "title": "San Matías, apóstol",
+   "color": "red"
+  },
+  {
+   "key": "Visitation",
+   "month": 5,
+   "day": 31,
+   "rank": "feast",
+   "title": "La Visitación de la Virgen María",
+   "color": "white"
+  },
+  {
+   "key": "NativityJohnBaptist",
+   "month": 6,
+   "day": 24,
+   "rank": "solemnity",
+   "title": "Natividad de san Juan Bautista",
+   "color": "white"
+  },
+  {
+   "key": "StsPeterPaulAp",
+   "month": 6,
+   "day": 29,
+   "rank": "solemnity",
+   "title": "Santos Pedro y Pablo, apóstoles",
+   "color": "red"
+  },
+  {
+   "key": "StThomasAp",
+   "month": 7,
+   "day": 3,
+   "rank": "feast",
+   "title": "Santo Tomás, apóstol",
+   "color": "red"
+  },
+  {
+   "key": "StMaryMagdalene",
+   "month": 7,
+   "day": 22,
+   "rank": "feast",
+   "title": "Santa María Magdalena",
+   "color": "white"
+  },
+  {
+   "key": "StJamesAp",
+   "month": 7,
+   "day": 25,
+   "rank": "feast",
+   "title": "Santiago, apóstol",
+   "color": "red"
+  },
+  {
+   "key": "StMartha",
+   "month": 7,
+   "day": 29,
+   "rank": "memorial",
+   "title": "Santos Marta, María y Lázaro",
+   "color": "white"
+  },
+  {
+   "key": "Transfiguration",
+   "month": 8,
+   "day": 6,
+   "rank": "feastOfTheLord",
+   "title": "La Transfiguración del Señor",
+   "color": "white"
+  },
+  {
+   "key": "StLawrenceDeacon",
+   "month": 8,
+   "day": 10,
+   "rank": "feast",
+   "title": "San Lorenzo, diácono y mártir",
+   "color": "red"
+  },
+  {
+   "key": "Assumption",
+   "month": 8,
+   "day": 15,
+   "rank": "solemnity",
+   "title": "La Asunción de la Virgen María",
+   "color": "white"
+  },
+  {
+   "key": "StBartholomewAp",
+   "month": 8,
+   "day": 24,
+   "rank": "feast",
+   "title": "San Bartolomé, apóstol",
+   "color": "red"
+  },
+  {
+   "key": "BeheadingJohnBaptist",
+   "month": 8,
+   "day": 29,
+   "rank": "memorial",
+   "title": "Martirio de san Juan Bautista",
+   "color": "red"
+  },
+  {
+   "key": "NativityVirginMary",
+   "month": 9,
+   "day": 8,
+   "rank": "feast",
+   "title": "La Natividad de la Virgen María",
+   "color": "white"
+  },
+  {
+   "key": "ExaltationCross",
+   "month": 9,
+   "day": 14,
+   "rank": "feastOfTheLord",
+   "title": "La Exaltación de la Santa Cruz",
+   "color": "red"
+  },
+  {
+   "key": "OurLadyOfSorrows",
+   "month": 9,
+   "day": 15,
+   "rank": "memorial",
+   "title": "Nuestra Señora de los Dolores",
+   "color": "white"
+  },
+  {
+   "key": "StMatthewEvangelist",
+   "month": 9,
+   "day": 21,
+   "rank": "feast",
+   "title": "San Mateo, apóstol y evangelista",
+   "color": "red"
+  },
+  {
+   "key": "StsArchangels",
+   "month": 9,
+   "day": 29,
+   "rank": "feast",
+   "title": "Santos Miguel, Gabriel y Rafael, arcángeles",
+   "color": "white"
+  },
+  {
+   "key": "GuardianAngels",
+   "month": 10,
+   "day": 2,
+   "rank": "memorial",
+   "title": "Santos Ángeles Custodios",
+   "color": "white"
+  },
+  {
+   "key": "StLukeEvangelist",
+   "month": 10,
+   "day": 18,
+   "rank": "feast",
+   "title": "San Lucas, evangelista",
+   "color": "red"
+  },
+  {
+   "key": "StSimonStJudeAp",
+   "month": 10,
+   "day": 28,
+   "rank": "feast",
+   "title": "Santos Simón y Judas, apóstoles",
+   "color": "red"
+  },
+  {
+   "key": "AllSaints",
+   "month": 11,
+   "day": 1,
+   "rank": "solemnity",
+   "title": "Todos los Santos",
+   "color": "white"
+  },
+  {
+   "key": "AllSouls",
+   "month": 11,
+   "day": 2,
+   "rank": "solemnity",
+   "title": "Conmemoración de todos los fieles difuntos",
+   "color": "purple"
+  },
+  {
+   "key": "DedicationLateran",
+   "month": 11,
+   "day": 9,
+   "rank": "feastOfTheLord",
+   "title": "Dedicación de la Basílica de Letrán",
+   "color": "white"
+  },
+  {
+   "key": "StAndrewAp",
+   "month": 11,
+   "day": 30,
+   "rank": "feast",
+   "title": "San Andrés, apóstol",
+   "color": "red"
+  },
+  {
+   "key": "ImmaculateConception",
+   "month": 12,
+   "day": 8,
+   "rank": "solemnity",
+   "title": "La Inmaculada Concepción de la Virgen María",
+   "color": "white"
+  },
+  {
+   "key": "OurLadyOfGuadalupe",
+   "month": 12,
+   "day": 12,
+   "rank": "feast",
+   "title": "Nuestra Señora de Guadalupe",
+   "color": "white"
+  },
+  {
+   "key": "StStephenProtomartyr",
+   "month": 12,
+   "day": 26,
+   "rank": "feast",
+   "title": "San Esteban, protomártir",
+   "color": "red"
+  },
+  {
+   "key": "StJohnEvangelist",
+   "month": 12,
+   "day": 27,
+   "rank": "feast",
+   "title": "San Juan, apóstol y evangelista",
+   "color": "white"
+  },
+  {
+   "key": "HolyInnocents",
+   "month": 12,
+   "day": 28,
+   "rank": "feast",
+   "title": "Los Santos Inocentes, mártires",
+   "color": "red"
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+  "notes": "Comentarios de los Padres a los Hechos de los Apóstoles y a Josué; Evangelio del día; mejoras en la Straubinger, la Guía, las fichas de los Padres y la Información.",
+  "packs": {
+    "autores": {
+      "format": 1,
+      "path": "../packs/autores-4fc8f5b42ca6e9fe.json",
+      "sha256": "4fc8f5b42ca6e9fe8eaaf82e9a8f655899e749bd6e0aa8a1e5676a8ef37dc44e",
+      "size": 25760,
+      "version": 2
+    },
+    "biblia": {
+      "format": 1,
+      "path": "../packs/biblia-fcf774368be41321.json",
+      "sha256": "fcf774368be41321b36046b59799dbdb225f5d70d2ad451915b5a404849ab38c",
+      "size": 5337991,
+      "version": 2
+    },
+    "guia": {
+      "format": 1,
+      "path": "../packs/guia-a3efcb17b5eeb0ee.json",
+      "sha256": "a3efcb17b5eeb0ee1939fc61c33df9f82caa4c8d9feb6d86247f0270f05dcd16",
+      "size": 9111,
+      "version": 3
+    },
+    "hoy": {
+      "format": 1,
+      "path": "../packs/hoy-a566116eca4b6993.json",
+      "sha256": "a566116eca4b6993a0a563a6eacf6d42c306bd2f98c36f7e3fed59e3520d0cbd",
+      "size": 1857,
+      "version": 2
+    },
+    "info": {
+      "format": 1,
+      "path": "../packs/info-aa2210d659540a92.json",
+      "sha256": "aa2210d659540a9232ad86c4b436ea3e89e889922c64ffd2ddb3b0415b6c7c79",
+      "size": 4928,
+      "version": 4
+    },
+    "liturgia": {
+      "format": 1,
+      "path": "../packs/liturgia-e89fab2f70f846eb.json",
+      "sha256": "e89fab2f70f846eb079d036f595978ef4344f9d09a20baf7c8ff1b87c16ce279",
+      "size": 116551,
+      "version": 1
+    },
+    "padres": {
+      "format": 1,
+      "path": "../packs/padres-ed95454bca2d0622.json",
+      "sha256": "ed95454bca2d0622f5d3e5789599cacb0c4999ee1ab7bd1aabb334fd7779296c",
+      "size": 33858697,
+      "version": 3
+    },
+    "straubinger": {
+      "format": 1,
+      "path": "../packs/straubinger-6e869e641e2de2e6.json",
+      "sha256": "6e869e641e2de2e66534baf0632430b8c607893c8f0515d826933a9dfce208f3",
+      "size": 10151044,
+      "version": 2
+    }
+  },
+  "priority": "normal",
+  "published": "2026-10-21T17:13:11Z",
+  "release": 5,
+  "schema": 1
+}
