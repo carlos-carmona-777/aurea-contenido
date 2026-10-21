@@ -1,12 +1,12 @@
 {
-  "notes": "Los comentarios de los Padres al Antiguo Testamento caen en su versículo en Gn 50, Éx 40 y Lv 15 (numeración de la Torres Amat).",
+  "notes": "Comentarios de los Padres a los Hechos de los Apóstoles y a Josué; Evangelio del día; mejoras en la Straubinger, la Guía, las fichas de los Padres y la Información.",
   "packs": {
     "autores": {
       "format": 1,
-      "path": "../packs/autores-55d014438a246de0.json",
-      "sha256": "55d014438a246de0afb5ef7224fbcd635becef05aa0819632396734ad83f1498",
-      "size": 21925,
-      "version": 1
+      "path": "../packs/autores-4fc8f5b42ca6e9fe.json",
+      "sha256": "4fc8f5b42ca6e9fe8eaaf82e9a8f655899e749bd6e0aa8a1e5676a8ef37dc44e",
+      "size": 25760,
+      "version": 2
     },
     "biblia": {
       "format": 1,
@@ -17,42 +17,49 @@
     },
     "guia": {
       "format": 1,
-      "path": "../packs/guia-f7ce13e9b3ef63b2.json",
-      "sha256": "f7ce13e9b3ef63b2a5bb7729adca9b1eada077e04a8615595d468b824aaf4b76",
-      "size": 9058,
-      "version": 2
+      "path": "../packs/guia-a3efcb17b5eeb0ee.json",
+      "sha256": "a3efcb17b5eeb0ee1939fc61c33df9f82caa4c8d9feb6d86247f0270f05dcd16",
+      "size": 9111,
+      "version": 3
     },
     "hoy": {
       "format": 1,
-      "path": "../packs/hoy-27978112dada41a8.json",
-      "sha256": "27978112dada41a825095004d951e3313ce3cf319e5a5ec5d017e92a7cb2da84",
-      "size": 713,
-      "version": 1
+      "path": "../packs/hoy-a566116eca4b6993.json",
+      "sha256": "a566116eca4b6993a0a563a6eacf6d42c306bd2f98c36f7e3fed59e3520d0cbd",
+      "size": 1857,
+      "version": 2
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-8e74016ceafa81c1.json",
-      "sha256": "8e74016ceafa81c1c806aa8cf6798efa8c0f3e0f3e67176b5f27e436a27cd29b",
-      "size": 4189,
-      "version": 3
+      "path": "../packs/info-aa2210d659540a92.json",
+      "sha256": "aa2210d659540a9232ad86c4b436ea3e89e889922c64ffd2ddb3b0415b6c7c79",
+      "size": 4928,
+      "version": 4
+    },
+    "liturgia": {
+      "format": 1,
+      "path": "../packs/liturgia-e89fab2f70f846eb.json",
+      "sha256": "e89fab2f70f846eb079d036f595978ef4344f9d09a20baf7c8ff1b87c16ce279",
+      "size": 116551,
+      "version": 1
     },
     "padres": {
       "format": 1,
-      "path": "../packs/padres-c137c03e4f0a3ccc.json",
-      "sha256": "c137c03e4f0a3ccc750ab63f65b702cfed7cc4cc456337021dea6980f1aa8d97",
-      "size": 10050337,
-      "version": 2
+      "path": "../packs/padres-ed95454bca2d0622.json",
+      "sha256": "ed95454bca2d0622f5d3e5789599cacb0c4999ee1ab7bd1aabb334fd7779296c",
+      "size": 33858697,
+      "version": 3
     },
     "straubinger": {
       "format": 1,
-      "path": "../packs/straubinger-f2eed8ec9f078bc5.json",
-      "sha256": "f2eed8ec9f078bc5a7e0522c9565bdcd8dc1421797dca4a9f71a683210e75f85",
-      "size": 10150979,
-      "version": 1
+      "path": "../packs/straubinger-6e869e641e2de2e6.json",
+      "sha256": "6e869e641e2de2e66534baf0632430b8c607893c8f0515d826933a9dfce208f3",
+      "size": 10151044,
+      "version": 2
     }
   },
   "priority": "normal",
-  "published": "2026-09-26T00:39:36Z",
-  "release": 4,
+  "published": "2026-10-21T17:13:11Z",
+  "release": 5,
   "schema": 1
 }
