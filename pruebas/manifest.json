@@ -1,5 +1,5 @@
 {
-  "notes": "Comentarios de los Padres a los Hechos de los Apóstoles y a Josué; Evangelio del día; mejoras en la Straubinger, la Guía, las fichas de los Padres y la Información.",
+  "notes": "Información: la Biblia se lee en la traducción de Mons. Juan Straubinger",
   "packs": {
     "autores": {
       "format": 1,
@@ -31,10 +31,10 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-aa2210d659540a92.json",
-      "sha256": "aa2210d659540a9232ad86c4b436ea3e89e889922c64ffd2ddb3b0415b6c7c79",
-      "size": 4928,
-      "version": 4
+      "path": "../packs/info-124bfd02c7214c79.json",
+      "sha256": "124bfd02c7214c7912c9e9355ae1e1276f105c8f5c5a47a991b2fa279ca4d229",
+      "size": 4835,
+      "version": 5
     },
     "liturgia": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-10-21T17:13:11Z",
-  "release": 5,
+  "published": "2026-10-21T22:27:02Z",
+  "release": 6,
   "schema": 1
 }
