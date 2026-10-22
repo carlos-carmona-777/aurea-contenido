@@ -1,5 +1,5 @@
 {
-  "notes": "Información: la Biblia se lee en la traducción de Mons. Juan Straubinger",
+  "notes": "Corrige la pantalla de Información y la Guía",
   "packs": {
     "autores": {
       "format": 1,
@@ -17,10 +17,10 @@
     },
     "guia": {
       "format": 1,
-      "path": "../packs/guia-a3efcb17b5eeb0ee.json",
-      "sha256": "a3efcb17b5eeb0ee1939fc61c33df9f82caa4c8d9feb6d86247f0270f05dcd16",
-      "size": 9111,
-      "version": 3
+      "path": "../packs/guia-36f1ceac302ad9a4.json",
+      "sha256": "36f1ceac302ad9a4855034f464e7b31f2c18de5578c3d566995c4e05f4d59db3",
+      "size": 9043,
+      "version": 4
     },
     "hoy": {
       "format": 1,
@@ -31,10 +31,10 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-124bfd02c7214c79.json",
-      "sha256": "124bfd02c7214c7912c9e9355ae1e1276f105c8f5c5a47a991b2fa279ca4d229",
-      "size": 4835,
-      "version": 5
+      "path": "../packs/info-a34fc54a091e1b19.json",
+      "sha256": "a34fc54a091e1b199fb1afb0287500ece85dbb473cb1369154e1d24da838bbf6",
+      "size": 4266,
+      "version": 6
     },
     "liturgia": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-10-21T22:27:02Z",
-  "release": 6,
+  "published": "2026-10-22T00:00:46Z",
+  "release": 7,
   "schema": 1
 }
