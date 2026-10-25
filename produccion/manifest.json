@@ -1,5 +1,5 @@
 {
-  "notes": "Corrige la pantalla de Información y la Guía",
+  "notes": "Contacto: escribir a soporte en tzinitzcan.com/soporte",
   "packs": {
     "autores": {
       "format": 1,
@@ -31,10 +31,10 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-a34fc54a091e1b19.json",
-      "sha256": "a34fc54a091e1b199fb1afb0287500ece85dbb473cb1369154e1d24da838bbf6",
-      "size": 4266,
-      "version": 6
+      "path": "../packs/info-f4ce1c4bc6758bc4.json",
+      "sha256": "f4ce1c4bc6758bc4df7dcd536709189ea793a9a332b625dfabec9c559764998e",
+      "size": 4315,
+      "version": 7
     },
     "liturgia": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-10-22T00:00:46Z",
-  "release": 7,
+  "published": "2026-10-25T17:05:28Z",
+  "release": 8,
   "schema": 1
 }
