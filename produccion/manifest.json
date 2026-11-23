@@ -1,5 +1,5 @@
 {
-  "notes": "Padres de la Iglesia en el Antiguo Testamento: Jueces, Rut, 1-2 Samuel, 1-2 Reyes, 1-2 Crónicas, Esdras, Nehemías, Tobías, Judit, Ester, 1-2 Macabeos, Job y Salmos",
+  "notes": "Padres de la Iglesia en el Antiguo Testamento: Proverbios, Eclesiastés, Cantar de los Cantares y Sabiduría",
   "packs": {
     "autores": {
       "format": 1,
@@ -45,10 +45,10 @@
     },
     "padres": {
       "format": 1,
-      "path": "../packs/padres-f8806e2c0751447e.json",
-      "sha256": "f8806e2c0751447ebf26ff8a92744c360f7cbcf3253af4bbda0280321b1e6137",
-      "size": 47026111,
-      "version": 4
+      "path": "../packs/padres-85115a670b546286.json",
+      "sha256": "85115a670b54628673450e844189ca93015b3d037dd02d45ae41adc967c2233e",
+      "size": 51870140,
+      "version": 5
     },
     "straubinger": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-11-23T01:51:46Z",
-  "release": 9,
+  "published": "2026-11-23T22:21:26Z",
+  "release": 10,
   "schema": 1
 }
