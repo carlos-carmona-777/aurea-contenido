@@ -1,5 +1,5 @@
 {
-  "notes": "Padres de la Iglesia en el Antiguo Testamento: Proverbios, Eclesiastés, Cantar de los Cantares y Sabiduría",
+  "notes": "Otras apps del mismo desarrollador: La Misa Explicada al final de Hoy",
   "packs": {
     "autores": {
       "format": 1,
@@ -31,10 +31,10 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-f4ce1c4bc6758bc4.json",
-      "sha256": "f4ce1c4bc6758bc4df7dcd536709189ea793a9a332b625dfabec9c559764998e",
-      "size": 4315,
-      "version": 7
+      "path": "../packs/info-93611bc0399d897d.json",
+      "sha256": "93611bc0399d897d129b0f1d7e61c932bad2e199acc314ca9fbcca45bf1653e4",
+      "size": 4866,
+      "version": 8
     },
     "liturgia": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-11-23T22:21:26Z",
-  "release": 10,
+  "published": "2026-11-24T00:46:36Z",
+  "release": 11,
   "schema": 1
 }
