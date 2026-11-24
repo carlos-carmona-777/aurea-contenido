@@ -1,5 +1,5 @@
 {
-  "notes": "Otras apps del mismo desarrollador: La Misa Explicada al final de Hoy",
+  "notes": "Padres del AT: Eclesiástico e Isaías",
   "packs": {
     "autores": {
       "format": 1,
@@ -45,10 +45,10 @@
     },
     "padres": {
       "format": 1,
-      "path": "../packs/padres-85115a670b546286.json",
-      "sha256": "85115a670b54628673450e844189ca93015b3d037dd02d45ae41adc967c2233e",
-      "size": 51870140,
-      "version": 5
+      "path": "../packs/padres-58b01a1a4d916f47.json",
+      "sha256": "58b01a1a4d916f47a73ac25216a2105258f81220cc0a56bc4650944b530588b6",
+      "size": 56240295,
+      "version": 6
     },
     "straubinger": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-11-24T00:46:36Z",
-  "release": 11,
+  "published": "2026-11-24T01:46:56Z",
+  "release": 12,
   "schema": 1
 }
