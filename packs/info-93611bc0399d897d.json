@@ -84,14 +84,31 @@
     "guide": "."
   },
   "contact": {
-    "text": "¿Encontraste un error en un texto o tienes una sugerencia? Escríbenos: cada corrección llega a todos por la próxima actualización de contenido.",
-    "email": "losareopagos@gmail.com",
+    "text": "¿Encontraste un error en un texto o tienes una sugerencia? Escríbenos en la página de soporte: cada corrección llega a todos por la próxima actualización de contenido.",
+    "email": null,
     "subject": "Áurea",
-    "web": null,
-    "webTitle": null
+    "web": "https://tzinitzcan.com/soporte",
+    "webTitle": "Escribir a soporte"
   },
   "privacy": "Áurea no tiene cuentas ni publicidad y no envía datos a terceros. Tus guardados y notas se guardan en tu dispositivo y en tu iCloud privado. Para actualizar los textos, el app consulta periódicamente un archivo público de contenido; esa consulta no lleva datos tuyos.",
   "credits": [
     "Diseño y desarrollo: Carlos Carmona"
-  ]
+  ],
+  "otherApps": {
+    "apps": [
+      {
+        "id": "la-misa-explicada",
+        "name": "La Misa Explicada",
+        "label": "MISA",
+        "text": "Cada parte de la Misa explicada, con el Evangelio del día, la Liturgia de las Horas y el Santoral.",
+        "icon": "OTRAS_APPS_LME",
+        "color": "#5A1F1F",
+        "button": {
+          "label": "Descargar",
+          "ios": "https://apps.apple.com/app/id6785691522",
+          "android": "https://play.google.com/store/apps/details?id=com.lamisaexplicada.app"
+        }
+      }
+    ]
+  }
 }

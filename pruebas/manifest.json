@@ -1,12 +1,12 @@
 {
-  "notes": "Corrige la pantalla de Información y la Guía",
+  "notes": "Otras apps del mismo desarrollador: La Misa Explicada al final de Hoy",
   "packs": {
     "autores": {
       "format": 1,
-      "path": "../packs/autores-4fc8f5b42ca6e9fe.json",
-      "sha256": "4fc8f5b42ca6e9fe8eaaf82e9a8f655899e749bd6e0aa8a1e5676a8ef37dc44e",
-      "size": 25760,
-      "version": 2
+      "path": "../packs/autores-94de30a700dc2e14.json",
+      "sha256": "94de30a700dc2e14a51449daf0e54cd25210da29abda884fa57104433815e48e",
+      "size": 26938,
+      "version": 3
     },
     "biblia": {
       "format": 1,
@@ -31,10 +31,10 @@
     },
     "info": {
       "format": 1,
-      "path": "../packs/info-a34fc54a091e1b19.json",
-      "sha256": "a34fc54a091e1b199fb1afb0287500ece85dbb473cb1369154e1d24da838bbf6",
-      "size": 4266,
-      "version": 6
+      "path": "../packs/info-93611bc0399d897d.json",
+      "sha256": "93611bc0399d897d129b0f1d7e61c932bad2e199acc314ca9fbcca45bf1653e4",
+      "size": 4866,
+      "version": 8
     },
     "liturgia": {
       "format": 1,
@@ -45,10 +45,10 @@
     },
     "padres": {
       "format": 1,
-      "path": "../packs/padres-ed95454bca2d0622.json",
-      "sha256": "ed95454bca2d0622f5d3e5789599cacb0c4999ee1ab7bd1aabb334fd7779296c",
-      "size": 33858697,
-      "version": 3
+      "path": "../packs/padres-85115a670b546286.json",
+      "sha256": "85115a670b54628673450e844189ca93015b3d037dd02d45ae41adc967c2233e",
+      "size": 51870140,
+      "version": 5
     },
     "straubinger": {
       "format": 1,
@@ -59,7 +59,7 @@
     }
   },
   "priority": "normal",
-  "published": "2026-10-22T00:00:46Z",
-  "release": 7,
+  "published": "2026-11-24T00:46:36Z",
+  "release": 11,
   "schema": 1
 }
